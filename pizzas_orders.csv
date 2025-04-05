@@ -1,0 +1,503 @@
+pizza_id,order_id,pizza_name_id,quantity,order_date,order_time,unit_price,total_price,pizza_size,pizza_category,pizza_ingredients,pizza_name
+1.00,1.00,hawaiian_m,1.00,1/1/2015,11:38:36,13.25,13.25,M,Classic,"Sliced Ham, Pineapple, Mozzarella Cheese",The Hawaiian Pizza
+2.00,2.00,classic_dlx_m,1.00,1/1/2015,11:57:40,16.00,16.00,M,Classic,"Pepperoni, Mushrooms, Red Onions, Red Peppers, Bacon",The Classic Deluxe Pizza
+3.00,2.00,five_cheese_l,1.00,1/1/2015,11:57:40,18.50,18.50,L,Veggie,"Mozzarella Cheese, Provolone Cheese, Smoked Gouda Cheese, Romano Cheese, Blue Cheese, Garlic",The Five Cheese Pizza4.00,2.00,pepperoni_l,1.00,9/24/2015,22:44:34,23.40,23.40,L,Classic,"""Pepperoni, Mozzarella, Tomato Sauce""",Pepperoni Pizza
+5.00,3.00,classic_dlx_xl,2.00,1/25/2015,20:59:11,17.49,34.98,XL,Special,"""Tomato, Mozzarella, Basil""",The Classic Deluxe Pizza
+6.00,3.00,chicken_supreme_xl,1.00,11/8/2015,06:05:32,23.42,23.42,XL,Veggie,"""Pepperoni, Mushrooms, Red Onions, Red Peppers, Bacon""",Chicken Supreme Pizza
+7.00,4.00,classic_dlx_m,1.00,11/1/2015,23:48:00,15.05,15.05,M,Classic,"""Chicken, Mozzarella, Onions, BBQ Sauce""",The Classic Deluxe Pizza
+8.00,5.00,five_cheese_l,4.00,5/10/2015,03:26:50,8.46,33.84,L,Classic,"""Mozzarella Cheese, Provolone Cheese, Gouda Cheese, Romano Cheese, Blue Cheese, Garlic""",The Five Cheese Pizza
+9.00,5.00,classic_dlx_l,3.00,4/7/2015,22:17:26,23.37,70.11,L,Classic,"""Bacon, Onion, Ham, Pineapple, Cheese""",The Classic Deluxe Pizza
+10.00,6.00,chicken_supreme_m,2.00,10/1/2015,04:01:14,17.49,34.98,M,Classic,"""Tomato, Mozzarella, Basil""",Chicken Supreme Pizza
+11.00,7.00,pepperoni_s,3.00,12/17/2015,16:06:13,19.75,59.25,S,Gourmet,"""Tomato, Mozzarella, Basil""",Pepperoni Pizza
+12.00,7.00,five_cheese_s,1.00,5/6/2015,19:49:23,8.82,8.82,S,Classic,"""Mozzarella Cheese, Provolone Cheese, Gouda Cheese, Romano Cheese, Blue Cheese, Garlic""",The Five Cheese Pizza
+13.00,8.00,hawaiian_m,5.00,10/18/2015,10:35:40,20.39,101.95,M,Gourmet,"""Bacon, Onion, Ham, Pineapple, Cheese""",The Hawaiian Pizza
+14.00,10.00,five_cheese_xl,1.00,10/11/2015,08:54:51,13.78,13.78,XL,Classic,"""Mozzarella Cheese, Provolone Cheese, Gouda Cheese, Romano Cheese, Blue Cheese, Garlic""",The Five Cheese Pizza
+15.00,11.00,five_cheese_xl,2.00,9/19/2015,12:41:03,13.91,27.82,XL,Gourmet,"""Pepperoni, Mushrooms, Red Onions, Red Peppers, Bacon""",The Five Cheese Pizza
+16.00,13.00,five_cheese_l,5.00,5/12/2015,14:44:17,12.03,60.15,L,Veggie,"""Chicken, Mozzarella, Onions, BBQ Sauce""",The Five Cheese Pizza
+17.00,13.00,five_cheese_l,4.00,5/26/2015,08:22:52,14.61,58.44,L,Gourmet,"""Sliced Ham, Pineapple, Mozzarella Cheese""",The Five Cheese Pizza
+18.00,15.00,five_cheese_s,1.00,12/9/2015,19:25:46,22.29,22.29,S,Classic,"""Tomato, Mozzarella, Basil""",The Five Cheese Pizza
+19.00,16.00,hawaiian_m,1.00,6/5/2015,22:38:07,23.50,23.50,M,Special,"""Mozzarella Cheese, Provolone Cheese, Gouda Cheese, Romano Cheese, Blue Cheese, Garlic""",The Hawaiian Pizza
+20.00,18.00,chicken_supreme_s,4.00,10/23/2015,07:34:24,18.01,72.04,S,Veggie,"""Pepperoni, Mushrooms, Red Onions, Red Peppers, Bacon""",Chicken Supreme Pizza
+21.00,20.00,chicken_supreme_m,5.00,12/7/2015,20:49:04,16.76,83.80,M,Special,"""Sliced Ham, Pineapple, Mozzarella Cheese""",Chicken Supreme Pizza
+22.00,20.00,margherita_s,5.00,5/30/2015,17:44:44,16.48,82.40,S,Classic,"""Pepperoni, Mozzarella, Tomato Sauce""",Margherita Pizza
+23.00,21.00,classic_dlx_l,4.00,8/6/2015,13:20:02,21.33,85.32,L,Gourmet,"""Bacon, Onion, Ham, Pineapple, Cheese""",The Classic Deluxe Pizza
+24.00,22.00,bbq_chicken_s,1.00,7/7/2015,14:55:19,23.77,23.77,S,Classic,"""Chicken, Mozzarella, Onions, BBQ Sauce""",BBQ Chicken Pizza
+25.00,22.00,bbq_chicken_s,5.00,4/27/2015,01:00:23,21.22,106.10,S,Classic,"""Tomato, Mozzarella, Basil""",BBQ Chicken Pizza
+26.00,23.00,pepperoni_l,5.00,8/28/2015,02:17:31,20.50,102.50,L,Veggie,"""Mozzarella Cheese, Provolone Cheese, Gouda Cheese, Romano Cheese, Blue Cheese, Garlic""",Pepperoni Pizza
+27.00,24.00,pepperoni_l,3.00,5/29/2015,14:45:04,5.71,17.13,L,Gourmet,"""Mozzarella Cheese, Provolone Cheese, Gouda Cheese, Romano Cheese, Blue Cheese, Garlic""",Pepperoni Pizza
+28.00,24.00,bbq_chicken_m,3.00,10/14/2015,15:49:03,8.68,26.04,M,Gourmet,"""Pepperoni, Mozzarella, Tomato Sauce""",BBQ Chicken Pizza
+29.00,24.00,chicken_supreme_m,2.00,5/5/2015,04:31:51,14.34,28.68,M,Spicy,"""Pepperoni, Mozzarella, Tomato Sauce""",Chicken Supreme Pizza
+30.00,25.00,chicken_supreme_m,4.00,7/31/2015,06:42:08,14.66,58.64,M,Special,"""Chicken, Mozzarella, Onions, BBQ Sauce""",Chicken Supreme Pizza
+31.00,26.00,pepperoni_m,2.00,1/18/2015,00:01:48,12.94,25.88,M,Special,"""Tomato, Mozzarella, Basil""",Pepperoni Pizza
+32.00,28.00,classic_dlx_l,3.00,10/30/2015,00:16:55,10.52,31.56,L,Gourmet,"""Sliced Ham, Pineapple, Mozzarella Cheese""",The Classic Deluxe Pizza
+33.00,28.00,bbq_chicken_m,5.00,5/3/2015,16:43:33,24.22,121.10,M,Special,"""Bacon, Onion, Ham, Pineapple, Cheese""",BBQ Chicken Pizza
+34.00,29.00,chicken_supreme_m,5.00,10/24/2015,14:53:51,18.02,90.10,M,Gourmet,"""Tomato, Mozzarella, Basil""",Chicken Supreme Pizza
+35.00,30.00,pepperoni_m,3.00,5/7/2015,12:07:37,20.17,60.51,M,Spicy,"""Bacon, Onion, Ham, Pineapple, Cheese""",Pepperoni Pizza
+36.00,31.00,margherita_l,1.00,2/14/2015,09:55:16,13.01,13.01,L,Gourmet,"""Mozzarella Cheese, Provolone Cheese, Gouda Cheese, Romano Cheese, Blue Cheese, Garlic""",Margherita Pizza
+37.00,31.00,five_cheese_l,2.00,2/12/2015,14:17:31,20.48,40.96,L,Classic,"""Mozzarella Cheese, Provolone Cheese, Gouda Cheese, Romano Cheese, Blue Cheese, Garlic""",The Five Cheese Pizza
+38.00,31.00,bbq_chicken_l,2.00,1/16/2015,15:08:54,18.64,37.28,L,Gourmet,"""Sliced Ham, Pineapple, Mozzarella Cheese""",BBQ Chicken Pizza
+39.00,31.00,pepperoni_m,1.00,4/19/2015,23:59:59,14.78,14.78,M,Veggie,"""Bacon, Onion, Ham, Pineapple, Cheese""",Pepperoni Pizza
+40.00,33.00,bbq_chicken_xl,1.00,9/29/2015,17:12:19,12.73,12.73,XL,Veggie,"""Bacon, Onion, Ham, Pineapple, Cheese""",BBQ Chicken Pizza
+41.00,34.00,five_cheese_l,2.00,7/11/2015,04:08:40,15.31,30.62,L,Special,"""Pepperoni, Mushrooms, Red Onions, Red Peppers, Bacon""",The Five Cheese Pizza
+42.00,36.00,bbq_chicken_xl,1.00,10/19/2015,21:18:12,18.39,18.39,XL,Gourmet,"""Pepperoni, Mozzarella, Tomato Sauce""",BBQ Chicken Pizza
+43.00,38.00,bbq_chicken_l,1.00,9/8/2015,19:21:01,13.98,13.98,L,Veggie,"""Bacon, Onion, Ham, Pineapple, Cheese""",BBQ Chicken Pizza
+44.00,40.00,bbq_chicken_xl,4.00,1/21/2015,22:50:04,6.80,27.20,XL,Spicy,"""Chicken, Mozzarella, Onions, BBQ Sauce""",BBQ Chicken Pizza
+45.00,40.00,five_cheese_l,3.00,6/4/2015,02:34:10,23.19,69.57,L,Gourmet,"""Chicken, Mozzarella, Onions, BBQ Sauce""",The Five Cheese Pizza
+46.00,40.00,chicken_supreme_xl,2.00,12/28/2015,03:42:13,15.38,30.76,XL,Special,"""Mozzarella Cheese, Provolone Cheese, Gouda Cheese, Romano Cheese, Blue Cheese, Garlic""",Chicken Supreme Pizza
+47.00,40.00,five_cheese_l,5.00,8/25/2015,22:54:44,17.70,88.50,L,Classic,"""Bacon, Onion, Ham, Pineapple, Cheese""",The Five Cheese Pizza
+48.00,41.00,hawaiian_s,1.00,10/18/2015,22:55:39,15.44,15.44,S,Special,"""Chicken, Mozzarella, Onions, BBQ Sauce""",The Hawaiian Pizza
+49.00,43.00,classic_dlx_xl,4.00,12/2/2015,13:20:36,8.33,33.32,XL,Gourmet,"""Mozzarella Cheese, Provolone Cheese, Gouda Cheese, Romano Cheese, Blue Cheese, Garlic""",The Classic Deluxe Pizza
+50.00,45.00,five_cheese_l,1.00,10/20/2015,16:44:00,7.41,7.41,L,Veggie,"""Sliced Ham, Pineapple, Mozzarella Cheese""",The Five Cheese Pizza
+51.00,46.00,classic_dlx_l,1.00,11/14/2015,02:36:49,23.58,23.58,L,Special,"""Sliced Ham, Pineapple, Mozzarella Cheese""",The Classic Deluxe Pizza
+52.00,46.00,hawaiian_s,1.00,6/18/2015,03:17:41,12.61,12.61,S,Spicy,"""Bacon, Onion, Ham, Pineapple, Cheese""",The Hawaiian Pizza
+53.00,46.00,five_cheese_s,5.00,5/14/2015,06:06:05,9.64,48.20,S,Spicy,"""Chicken, Mozzarella, Onions, BBQ Sauce""",The Five Cheese Pizza
+54.00,47.00,classic_dlx_xl,4.00,4/23/2015,20:34:52,13.34,53.36,XL,Veggie,"""Pepperoni, Mushrooms, Red Onions, Red Peppers, Bacon""",The Classic Deluxe Pizza
+55.00,49.00,classic_dlx_xl,4.00,9/25/2015,00:55:48,5.38,21.52,XL,Special,"""Chicken, Mozzarella, Onions, BBQ Sauce""",The Classic Deluxe Pizza
+56.00,51.00,pepperoni_s,2.00,7/30/2015,07:22:48,12.86,25.72,S,Classic,"""Chicken, Mozzarella, Onions, BBQ Sauce""",Pepperoni Pizza
+57.00,51.00,pepperoni_l,3.00,8/29/2015,05:23:56,14.95,44.85,L,Gourmet,"""Chicken, Mozzarella, Onions, BBQ Sauce""",Pepperoni Pizza
+58.00,52.00,hawaiian_l,5.00,5/10/2015,23:52:19,18.01,90.05,L,Classic,"""Mozzarella Cheese, Provolone Cheese, Gouda Cheese, Romano Cheese, Blue Cheese, Garlic""",The Hawaiian Pizza
+59.00,52.00,hawaiian_s,4.00,11/20/2015,19:02:41,13.42,53.68,S,Special,"""Chicken, Mozzarella, Onions, BBQ Sauce""",The Hawaiian Pizza
+60.00,54.00,margherita_s,2.00,11/15/2015,22:16:50,20.89,41.78,S,Special,"""Mozzarella Cheese, Provolone Cheese, Gouda Cheese, Romano Cheese, Blue Cheese, Garlic""",Margherita Pizza
+61.00,54.00,bbq_chicken_m,4.00,6/28/2015,17:43:57,23.00,92.00,M,Classic,"""Tomato, Mozzarella, Basil""",BBQ Chicken Pizza
+62.00,54.00,bbq_chicken_s,4.00,4/9/2015,00:39:51,7.30,29.20,S,Classic,"""Mozzarella Cheese, Provolone Cheese, Gouda Cheese, Romano Cheese, Blue Cheese, Garlic""",BBQ Chicken Pizza
+63.00,55.00,pepperoni_m,1.00,8/7/2015,07:27:23,7.94,7.94,M,Veggie,"""Sliced Ham, Pineapple, Mozzarella Cheese""",Pepperoni Pizza
+64.00,57.00,classic_dlx_l,2.00,10/15/2015,13:17:09,6.77,13.54,L,Special,"""Pepperoni, Mozzarella, Tomato Sauce""",The Classic Deluxe Pizza
+65.00,57.00,five_cheese_xl,3.00,12/16/2015,07:51:05,17.06,51.18,XL,Veggie,"""Pepperoni, Mushrooms, Red Onions, Red Peppers, Bacon""",The Five Cheese Pizza
+66.00,59.00,pepperoni_s,3.00,4/16/2015,06:33:39,22.37,67.11,S,Special,"""Pepperoni, Mozzarella, Tomato Sauce""",Pepperoni Pizza
+67.00,59.00,chicken_supreme_l,1.00,2/13/2015,04:05:10,22.08,22.08,L,Classic,"""Pepperoni, Mozzarella, Tomato Sauce""",Chicken Supreme Pizza
+68.00,59.00,pepperoni_m,2.00,6/8/2015,22:38:39,12.85,25.70,M,Spicy,"""Chicken, Mozzarella, Onions, BBQ Sauce""",Pepperoni Pizza
+69.00,59.00,margherita_s,2.00,9/13/2015,17:17:59,24.87,49.74,S,Spicy,"""Pepperoni, Mushrooms, Red Onions, Red Peppers, Bacon""",Margherita Pizza
+70.00,60.00,hawaiian_l,2.00,1/6/2015,10:19:03,22.15,44.30,L,Spicy,"""Mozzarella Cheese, Provolone Cheese, Gouda Cheese, Romano Cheese, Blue Cheese, Garlic""",The Hawaiian Pizza
+71.00,62.00,five_cheese_l,4.00,3/17/2015,04:42:55,21.91,87.64,L,Classic,"""Pepperoni, Mushrooms, Red Onions, Red Peppers, Bacon""",The Five Cheese Pizza
+72.00,62.00,classic_dlx_l,4.00,11/2/2015,15:08:48,24.32,97.28,L,Spicy,"""Mozzarella Cheese, Provolone Cheese, Gouda Cheese, Romano Cheese, Blue Cheese, Garlic""",The Classic Deluxe Pizza
+73.00,63.00,margherita_l,2.00,3/29/2015,06:19:12,8.52,17.04,L,Special,"""Bacon, Onion, Ham, Pineapple, Cheese""",Margherita Pizza
+74.00,64.00,pepperoni_s,2.00,8/11/2015,18:22:07,20.37,40.74,S,Spicy,"""Mozzarella Cheese, Provolone Cheese, Gouda Cheese, Romano Cheese, Blue Cheese, Garlic""",Pepperoni Pizza
+75.00,65.00,hawaiian_m,2.00,10/27/2015,09:57:26,20.69,41.38,M,Special,"""Chicken, Mozzarella, Onions, BBQ Sauce""",The Hawaiian Pizza
+76.00,66.00,margherita_l,5.00,9/14/2015,01:43:58,18.60,93.00,L,Special,"""Mozzarella Cheese, Provolone Cheese, Gouda Cheese, Romano Cheese, Blue Cheese, Garlic""",Margherita Pizza
+77.00,66.00,margherita_l,1.00,3/10/2015,08:45:34,18.48,18.48,L,Spicy,"""Sliced Ham, Pineapple, Mozzarella Cheese""",Margherita Pizza
+78.00,66.00,bbq_chicken_s,4.00,1/12/2015,19:31:27,11.60,46.40,S,Spicy,"""Sliced Ham, Pineapple, Mozzarella Cheese""",BBQ Chicken Pizza
+79.00,68.00,hawaiian_xl,2.00,5/6/2015,10:42:15,5.02,10.04,XL,Veggie,"""Mozzarella Cheese, Provolone Cheese, Gouda Cheese, Romano Cheese, Blue Cheese, Garlic""",The Hawaiian Pizza
+80.00,70.00,chicken_supreme_l,1.00,2/10/2015,11:51:13,8.11,8.11,L,Spicy,"""Sliced Ham, Pineapple, Mozzarella Cheese""",Chicken Supreme Pizza
+81.00,72.00,pepperoni_l,2.00,10/29/2015,00:14:10,12.67,25.34,L,Special,"""Bacon, Onion, Ham, Pineapple, Cheese""",Pepperoni Pizza
+82.00,72.00,hawaiian_m,3.00,11/22/2015,15:50:49,22.61,67.83,M,Classic,"""Sliced Ham, Pineapple, Mozzarella Cheese""",The Hawaiian Pizza
+83.00,72.00,classic_dlx_xl,1.00,4/15/2015,00:33:50,11.69,11.69,XL,Classic,"""Tomato, Mozzarella, Basil""",The Classic Deluxe Pizza
+84.00,74.00,chicken_supreme_l,4.00,3/13/2015,07:43:02,6.49,25.96,L,Classic,"""Chicken, Mozzarella, Onions, BBQ Sauce""",Chicken Supreme Pizza
+85.00,74.00,five_cheese_s,1.00,10/21/2015,20:21:43,12.46,12.46,S,Gourmet,"""Sliced Ham, Pineapple, Mozzarella Cheese""",The Five Cheese Pizza
+86.00,74.00,hawaiian_m,2.00,11/8/2015,00:09:46,9.07,18.14,M,Spicy,"""Pepperoni, Mozzarella, Tomato Sauce""",The Hawaiian Pizza
+87.00,75.00,pepperoni_s,3.00,5/23/2015,11:10:48,22.76,68.28,S,Special,"""Tomato, Mozzarella, Basil""",Pepperoni Pizza
+88.00,75.00,bbq_chicken_m,1.00,6/29/2015,20:05:45,6.20,6.20,M,Veggie,"""Pepperoni, Mozzarella, Tomato Sauce""",BBQ Chicken Pizza
+89.00,77.00,chicken_supreme_xl,3.00,2/14/2015,20:16:09,11.33,33.99,XL,Gourmet,"""Chicken, Mozzarella, Onions, BBQ Sauce""",Chicken Supreme Pizza
+90.00,79.00,pepperoni_m,1.00,8/4/2015,13:20:04,20.10,20.10,M,Special,"""Mozzarella Cheese, Provolone Cheese, Gouda Cheese, Romano Cheese, Blue Cheese, Garlic""",Pepperoni Pizza
+91.00,80.00,chicken_supreme_s,2.00,10/12/2015,14:15:22,7.28,14.56,S,Spicy,"""Pepperoni, Mozzarella, Tomato Sauce""",Chicken Supreme Pizza
+92.00,82.00,classic_dlx_m,3.00,3/7/2015,18:10:35,14.12,42.36,M,Spicy,"""Pepperoni, Mushrooms, Red Onions, Red Peppers, Bacon""",The Classic Deluxe Pizza
+93.00,83.00,chicken_supreme_l,4.00,2/27/2015,15:17:24,13.77,55.08,L,Classic,"""Mozzarella Cheese, Provolone Cheese, Gouda Cheese, Romano Cheese, Blue Cheese, Garlic""",Chicken Supreme Pizza
+94.00,85.00,chicken_supreme_l,2.00,7/3/2015,17:28:41,13.55,27.10,L,Veggie,"""Chicken, Mozzarella, Onions, BBQ Sauce""",Chicken Supreme Pizza
+95.00,85.00,margherita_l,1.00,4/10/2015,06:27:01,18.16,18.16,L,Veggie,"""Pepperoni, Mozzarella, Tomato Sauce""",Margherita Pizza
+96.00,87.00,hawaiian_m,2.00,4/1/2015,06:09:45,24.42,48.84,M,Veggie,"""Tomato, Mozzarella, Basil""",The Hawaiian Pizza
+97.00,89.00,chicken_supreme_xl,1.00,10/24/2015,01:15:32,6.89,6.89,XL,Classic,"""Mozzarella Cheese, Provolone Cheese, Gouda Cheese, Romano Cheese, Blue Cheese, Garlic""",Chicken Supreme Pizza
+98.00,90.00,bbq_chicken_l,3.00,3/7/2015,08:17:16,14.38,43.14,L,Gourmet,"""Pepperoni, Mushrooms, Red Onions, Red Peppers, Bacon""",BBQ Chicken Pizza
+99.00,90.00,chicken_supreme_xl,4.00,1/3/2015,22:02:28,23.84,95.36,XL,Veggie,"""Pepperoni, Mushrooms, Red Onions, Red Peppers, Bacon""",Chicken Supreme Pizza
+100.00,90.00,hawaiian_l,1.00,4/6/2015,09:35:21,20.92,20.92,L,Veggie,"""Sliced Ham, Pineapple, Mozzarella Cheese""",The Hawaiian Pizza
+101.00,90.00,bbq_chicken_l,1.00,10/18/2015,17:18:33,20.31,20.31,L,Gourmet,"""Tomato, Mozzarella, Basil""",BBQ Chicken Pizza
+102.00,90.00,hawaiian_l,5.00,2/26/2015,08:05:46,23.48,117.40,L,Spicy,"""Tomato, Mozzarella, Basil""",The Hawaiian Pizza
+103.00,92.00,classic_dlx_l,5.00,11/23/2015,11:37:10,6.42,32.10,L,Veggie,"""Sliced Ham, Pineapple, Mozzarella Cheese""",The Classic Deluxe Pizza
+104.00,94.00,classic_dlx_xl,4.00,1/8/2015,00:51:07,7.66,30.64,XL,Classic,"""Mozzarella Cheese, Provolone Cheese, Gouda Cheese, Romano Cheese, Blue Cheese, Garlic""",The Classic Deluxe Pizza
+105.00,95.00,classic_dlx_s,5.00,11/28/2015,18:49:27,12.35,61.75,S,Spicy,"""Chicken, Mozzarella, Onions, BBQ Sauce""",The Classic Deluxe Pizza
+106.00,97.00,chicken_supreme_xl,3.00,4/14/2015,14:29:51,8.56,25.68,XL,Veggie,"""Bacon, Onion, Ham, Pineapple, Cheese""",Chicken Supreme Pizza
+107.00,98.00,pepperoni_xl,4.00,9/29/2015,13:07:59,15.54,62.16,XL,Spicy,"""Pepperoni, Mushrooms, Red Onions, Red Peppers, Bacon""",Pepperoni Pizza
+108.00,100.00,five_cheese_xl,1.00,3/7/2015,02:20:51,17.18,17.18,XL,Gourmet,"""Pepperoni, Mushrooms, Red Onions, Red Peppers, Bacon""",The Five Cheese Pizza
+109.00,100.00,classic_dlx_s,5.00,9/4/2015,21:49:14,10.50,52.50,S,Veggie,"""Pepperoni, Mushrooms, Red Onions, Red Peppers, Bacon""",The Classic Deluxe Pizza
+110.00,102.00,classic_dlx_l,4.00,4/19/2015,20:11:11,23.34,93.36,L,Special,"""Pepperoni, Mozzarella, Tomato Sauce""",The Classic Deluxe Pizza
+111.00,103.00,hawaiian_xl,1.00,12/29/2015,10:01:54,11.46,11.46,XL,Special,"""Sliced Ham, Pineapple, Mozzarella Cheese""",The Hawaiian Pizza
+112.00,104.00,margherita_s,3.00,3/23/2015,22:21:48,24.13,72.39,S,Gourmet,"""Mozzarella Cheese, Provolone Cheese, Gouda Cheese, Romano Cheese, Blue Cheese, Garlic""",Margherita Pizza
+113.00,106.00,margherita_xl,4.00,1/25/2015,03:41:07,8.18,32.72,XL,Gourmet,"""Mozzarella Cheese, Provolone Cheese, Gouda Cheese, Romano Cheese, Blue Cheese, Garlic""",Margherita Pizza
+114.00,106.00,bbq_chicken_xl,4.00,1/20/2015,05:29:08,7.57,30.28,XL,Veggie,"""Tomato, Mozzarella, Basil""",BBQ Chicken Pizza
+115.00,107.00,bbq_chicken_l,1.00,10/7/2015,00:10:29,7.62,7.62,L,Special,"""Chicken, Mozzarella, Onions, BBQ Sauce""",BBQ Chicken Pizza
+116.00,109.00,bbq_chicken_s,1.00,7/4/2015,00:08:52,13.22,13.22,S,Classic,"""Pepperoni, Mozzarella, Tomato Sauce""",BBQ Chicken Pizza
+117.00,111.00,five_cheese_m,5.00,5/14/2015,02:41:59,8.55,42.75,M,Special,"""Tomato, Mozzarella, Basil""",The Five Cheese Pizza
+118.00,113.00,hawaiian_m,1.00,2/21/2015,21:51:13,19.98,19.98,M,Spicy,"""Bacon, Onion, Ham, Pineapple, Cheese""",The Hawaiian Pizza
+119.00,114.00,bbq_chicken_xl,4.00,10/30/2015,04:09:32,8.78,35.12,XL,Spicy,"""Tomato, Mozzarella, Basil""",BBQ Chicken Pizza
+120.00,114.00,margherita_m,4.00,5/27/2015,04:12:10,5.21,20.84,M,Special,"""Mozzarella Cheese, Provolone Cheese, Gouda Cheese, Romano Cheese, Blue Cheese, Garlic""",Margherita Pizza
+121.00,116.00,five_cheese_xl,1.00,4/30/2015,20:13:57,5.31,5.31,XL,Veggie,"""Pepperoni, Mozzarella, Tomato Sauce""",The Five Cheese Pizza
+122.00,116.00,pepperoni_s,4.00,1/4/2015,17:17:36,9.66,38.64,S,Classic,"""Pepperoni, Mushrooms, Red Onions, Red Peppers, Bacon""",Pepperoni Pizza
+123.00,117.00,margherita_s,1.00,2/10/2015,05:28:30,8.37,8.37,S,Classic,"""Bacon, Onion, Ham, Pineapple, Cheese""",Margherita Pizza
+124.00,117.00,hawaiian_m,5.00,5/28/2015,10:36:29,12.73,63.65,M,Classic,"""Pepperoni, Mushrooms, Red Onions, Red Peppers, Bacon""",The Hawaiian Pizza
+125.00,118.00,bbq_chicken_l,3.00,6/11/2015,11:40:54,19.99,59.97,L,Spicy,"""Pepperoni, Mushrooms, Red Onions, Red Peppers, Bacon""",BBQ Chicken Pizza
+126.00,120.00,bbq_chicken_l,5.00,6/2/2015,05:22:17,12.26,61.30,L,Veggie,"""Pepperoni, Mozzarella, Tomato Sauce""",BBQ Chicken Pizza
+127.00,120.00,hawaiian_s,4.00,1/2/2015,23:18:25,14.92,59.68,S,Spicy,"""Pepperoni, Mozzarella, Tomato Sauce""",The Hawaiian Pizza
+128.00,121.00,chicken_supreme_xl,2.00,10/22/2015,20:17:26,21.27,42.54,XL,Special,"""Bacon, Onion, Ham, Pineapple, Cheese""",Chicken Supreme Pizza
+129.00,123.00,chicken_supreme_xl,3.00,12/15/2015,11:41:25,24.33,72.99,XL,Gourmet,"""Pepperoni, Mozzarella, Tomato Sauce""",Chicken Supreme Pizza
+130.00,125.00,chicken_supreme_s,5.00,7/9/2015,12:07:56,14.04,70.20,S,Gourmet,"""Chicken, Mozzarella, Onions, BBQ Sauce""",Chicken Supreme Pizza
+131.00,127.00,classic_dlx_xl,5.00,7/27/2015,13:18:16,17.67,88.35,XL,Special,"""Chicken, Mozzarella, Onions, BBQ Sauce""",The Classic Deluxe Pizza
+132.00,129.00,chicken_supreme_s,4.00,9/11/2015,19:48:07,12.35,49.40,S,Gourmet,"""Chicken, Mozzarella, Onions, BBQ Sauce""",Chicken Supreme Pizza
+133.00,131.00,classic_dlx_s,4.00,11/16/2015,15:37:14,15.44,61.76,S,Spicy,"""Pepperoni, Mozzarella, Tomato Sauce""",The Classic Deluxe Pizza
+134.00,133.00,chicken_supreme_xl,5.00,9/9/2015,22:07:55,6.90,34.50,XL,Special,"""Sliced Ham, Pineapple, Mozzarella Cheese""",Chicken Supreme Pizza
+135.00,135.00,bbq_chicken_xl,5.00,1/16/2015,10:15:04,15.98,79.90,XL,Classic,"""Pepperoni, Mushrooms, Red Onions, Red Peppers, Bacon""",BBQ Chicken Pizza
+136.00,136.00,pepperoni_xl,2.00,6/24/2015,05:45:23,7.30,14.60,XL,Classic,"""Sliced Ham, Pineapple, Mozzarella Cheese""",Pepperoni Pizza
+137.00,138.00,chicken_supreme_l,1.00,8/12/2015,09:14:10,7.34,7.34,L,Special,"""Bacon, Onion, Ham, Pineapple, Cheese""",Chicken Supreme Pizza
+138.00,139.00,five_cheese_l,4.00,3/17/2015,15:44:41,8.56,34.24,L,Special,"""Mozzarella Cheese, Provolone Cheese, Gouda Cheese, Romano Cheese, Blue Cheese, Garlic""",The Five Cheese Pizza
+139.00,139.00,hawaiian_s,3.00,10/22/2015,15:17:50,20.92,62.76,S,Spicy,"""Mozzarella Cheese, Provolone Cheese, Gouda Cheese, Romano Cheese, Blue Cheese, Garlic""",The Hawaiian Pizza
+140.00,140.00,classic_dlx_l,2.00,7/26/2015,10:37:24,20.82,41.64,L,Spicy,"""Bacon, Onion, Ham, Pineapple, Cheese""",The Classic Deluxe Pizza
+141.00,140.00,hawaiian_s,5.00,10/1/2015,16:57:13,10.15,50.75,S,Special,"""Bacon, Onion, Ham, Pineapple, Cheese""",The Hawaiian Pizza
+142.00,140.00,bbq_chicken_xl,4.00,3/31/2015,19:28:20,24.01,96.04,XL,Veggie,"""Sliced Ham, Pineapple, Mozzarella Cheese""",BBQ Chicken Pizza
+143.00,140.00,margherita_m,2.00,1/19/2015,12:04:10,15.00,30.00,M,Special,"""Chicken, Mozzarella, Onions, BBQ Sauce""",Margherita Pizza
+144.00,142.00,pepperoni_l,2.00,8/28/2015,22:00:35,6.03,12.06,L,Gourmet,"""Mozzarella Cheese, Provolone Cheese, Gouda Cheese, Romano Cheese, Blue Cheese, Garlic""",Pepperoni Pizza
+145.00,142.00,hawaiian_l,5.00,5/29/2015,08:55:11,18.84,94.20,L,Special,"""Pepperoni, Mozzarella, Tomato Sauce""",The Hawaiian Pizza
+146.00,142.00,bbq_chicken_s,3.00,2/1/2015,23:24:35,18.30,54.90,S,Gourmet,"""Pepperoni, Mushrooms, Red Onions, Red Peppers, Bacon""",BBQ Chicken Pizza
+147.00,144.00,margherita_l,4.00,11/24/2015,23:08:05,17.36,69.44,L,Gourmet,"""Bacon, Onion, Ham, Pineapple, Cheese""",Margherita Pizza
+148.00,144.00,pepperoni_s,2.00,9/19/2015,02:48:42,17.80,35.60,S,Classic,"""Tomato, Mozzarella, Basil""",Pepperoni Pizza
+149.00,146.00,margherita_xl,5.00,5/24/2015,06:22:09,19.49,97.45,XL,Veggie,"""Sliced Ham, Pineapple, Mozzarella Cheese""",Margherita Pizza
+150.00,147.00,five_cheese_l,3.00,5/17/2015,20:37:06,17.20,51.60,L,Veggie,"""Chicken, Mozzarella, Onions, BBQ Sauce""",The Five Cheese Pizza
+151.00,147.00,margherita_s,5.00,3/26/2015,21:19:21,9.71,48.55,S,Gourmet,"""Pepperoni, Mushrooms, Red Onions, Red Peppers, Bacon""",Margherita Pizza
+152.00,147.00,margherita_m,2.00,10/8/2015,19:21:59,23.17,46.34,M,Veggie,"""Pepperoni, Mushrooms, Red Onions, Red Peppers, Bacon""",Margherita Pizza
+153.00,147.00,chicken_supreme_m,1.00,7/24/2015,23:51:21,6.64,6.64,M,Spicy,"""Chicken, Mozzarella, Onions, BBQ Sauce""",Chicken Supreme Pizza
+154.00,147.00,margherita_m,3.00,12/4/2015,10:24:53,11.69,35.07,M,Veggie,"""Tomato, Mozzarella, Basil""",Margherita Pizza
+155.00,148.00,margherita_l,5.00,12/29/2015,14:10:47,21.86,109.30,L,Special,"""Pepperoni, Mozzarella, Tomato Sauce""",Margherita Pizza
+156.00,148.00,chicken_supreme_m,5.00,11/11/2015,21:07:38,6.32,31.60,M,Spicy,"""Chicken, Mozzarella, Onions, BBQ Sauce""",Chicken Supreme Pizza
+157.00,148.00,pepperoni_xl,2.00,3/10/2015,20:50:57,15.93,31.86,XL,Special,"""Sliced Ham, Pineapple, Mozzarella Cheese""",Pepperoni Pizza
+158.00,150.00,five_cheese_xl,5.00,11/18/2015,02:43:29,18.92,94.60,XL,Classic,"""Sliced Ham, Pineapple, Mozzarella Cheese""",The Five Cheese Pizza
+159.00,151.00,classic_dlx_s,4.00,3/20/2015,18:23:51,10.34,41.36,S,Special,"""Bacon, Onion, Ham, Pineapple, Cheese""",The Classic Deluxe Pizza
+160.00,151.00,margherita_m,3.00,10/7/2015,08:08:50,14.31,42.93,M,Classic,"""Mozzarella Cheese, Provolone Cheese, Gouda Cheese, Romano Cheese, Blue Cheese, Garlic""",Margherita Pizza
+161.00,152.00,bbq_chicken_s,4.00,9/26/2015,22:51:03,23.18,92.72,S,Spicy,"""Mozzarella Cheese, Provolone Cheese, Gouda Cheese, Romano Cheese, Blue Cheese, Garlic""",BBQ Chicken Pizza
+162.00,152.00,pepperoni_l,2.00,8/3/2015,05:08:23,18.12,36.24,L,Classic,"""Mozzarella Cheese, Provolone Cheese, Gouda Cheese, Romano Cheese, Blue Cheese, Garlic""",Pepperoni Pizza
+163.00,152.00,chicken_supreme_l,2.00,5/21/2015,20:04:02,15.50,31.00,L,Gourmet,"""Bacon, Onion, Ham, Pineapple, Cheese""",Chicken Supreme Pizza
+164.00,152.00,bbq_chicken_l,5.00,3/21/2015,01:10:54,15.51,77.55,L,Veggie,"""Chicken, Mozzarella, Onions, BBQ Sauce""",BBQ Chicken Pizza
+165.00,152.00,chicken_supreme_l,2.00,10/17/2015,17:48:54,21.87,43.74,L,Veggie,"""Tomato, Mozzarella, Basil""",Chicken Supreme Pizza
+166.00,154.00,margherita_s,5.00,12/8/2015,05:29:15,11.12,55.60,S,Special,"""Sliced Ham, Pineapple, Mozzarella Cheese""",Margherita Pizza
+167.00,155.00,chicken_supreme_m,1.00,8/1/2015,02:47:47,15.64,15.64,M,Spicy,"""Bacon, Onion, Ham, Pineapple, Cheese""",Chicken Supreme Pizza
+168.00,156.00,chicken_supreme_s,5.00,8/1/2015,07:00:01,23.68,118.40,S,Special,"""Sliced Ham, Pineapple, Mozzarella Cheese""",Chicken Supreme Pizza
+169.00,157.00,classic_dlx_m,1.00,11/11/2015,07:06:26,13.32,13.32,M,Classic,"""Mozzarella Cheese, Provolone Cheese, Gouda Cheese, Romano Cheese, Blue Cheese, Garlic""",The Classic Deluxe Pizza
+170.00,157.00,classic_dlx_m,1.00,1/26/2015,00:03:04,5.28,5.28,M,Classic,"""Chicken, Mozzarella, Onions, BBQ Sauce""",The Classic Deluxe Pizza
+171.00,157.00,bbq_chicken_m,5.00,9/15/2015,10:45:36,23.83,119.15,M,Gourmet,"""Pepperoni, Mozzarella, Tomato Sauce""",BBQ Chicken Pizza
+172.00,158.00,margherita_s,3.00,10/5/2015,11:00:06,24.32,72.96,S,Classic,"""Pepperoni, Mozzarella, Tomato Sauce""",Margherita Pizza
+173.00,158.00,classic_dlx_xl,5.00,5/20/2015,13:45:52,12.83,64.15,XL,Spicy,"""Mozzarella Cheese, Provolone Cheese, Gouda Cheese, Romano Cheese, Blue Cheese, Garlic""",The Classic Deluxe Pizza
+174.00,158.00,five_cheese_l,2.00,10/22/2015,14:02:22,7.72,15.44,L,Veggie,"""Mozzarella Cheese, Provolone Cheese, Gouda Cheese, Romano Cheese, Blue Cheese, Garlic""",The Five Cheese Pizza
+175.00,159.00,margherita_l,5.00,5/23/2015,05:48:40,14.62,73.10,L,Special,"""Tomato, Mozzarella, Basil""",Margherita Pizza
+176.00,160.00,hawaiian_l,2.00,3/29/2015,21:17:00,22.39,44.78,L,Gourmet,"""Pepperoni, Mozzarella, Tomato Sauce""",The Hawaiian Pizza
+177.00,162.00,classic_dlx_m,4.00,11/10/2015,02:57:00,22.63,90.52,M,Spicy,"""Pepperoni, Mushrooms, Red Onions, Red Peppers, Bacon""",The Classic Deluxe Pizza
+178.00,164.00,classic_dlx_m,1.00,3/7/2015,05:58:31,11.19,11.19,M,Gourmet,"""Bacon, Onion, Ham, Pineapple, Cheese""",The Classic Deluxe Pizza
+179.00,165.00,bbq_chicken_xl,5.00,7/26/2015,21:11:57,12.69,63.45,XL,Classic,"""Chicken, Mozzarella, Onions, BBQ Sauce""",BBQ Chicken Pizza
+180.00,166.00,five_cheese_s,5.00,9/19/2015,07:34:36,8.53,42.65,S,Veggie,"""Pepperoni, Mozzarella, Tomato Sauce""",The Five Cheese Pizza
+181.00,167.00,chicken_supreme_m,4.00,2/15/2015,16:04:53,11.98,47.92,M,Classic,"""Chicken, Mozzarella, Onions, BBQ Sauce""",Chicken Supreme Pizza
+182.00,168.00,margherita_xl,3.00,8/27/2015,14:32:46,10.41,31.23,XL,Spicy,"""Tomato, Mozzarella, Basil""",Margherita Pizza
+183.00,170.00,five_cheese_s,4.00,5/22/2015,05:19:11,14.24,56.96,S,Gourmet,"""Tomato, Mozzarella, Basil""",The Five Cheese Pizza
+184.00,172.00,chicken_supreme_l,2.00,2/20/2015,02:26:48,12.69,25.38,L,Veggie,"""Pepperoni, Mushrooms, Red Onions, Red Peppers, Bacon""",Chicken Supreme Pizza
+185.00,174.00,bbq_chicken_xl,4.00,7/11/2015,12:59:19,23.50,94.00,XL,Spicy,"""Bacon, Onion, Ham, Pineapple, Cheese""",BBQ Chicken Pizza
+186.00,176.00,classic_dlx_l,1.00,10/27/2015,17:38:52,5.03,5.03,L,Spicy,"""Chicken, Mozzarella, Onions, BBQ Sauce""",The Classic Deluxe Pizza
+187.00,178.00,hawaiian_xl,1.00,1/15/2015,17:59:00,11.76,11.76,XL,Gourmet,"""Pepperoni, Mushrooms, Red Onions, Red Peppers, Bacon""",The Hawaiian Pizza
+188.00,179.00,margherita_l,3.00,5/23/2015,19:14:34,19.72,59.16,L,Spicy,"""Chicken, Mozzarella, Onions, BBQ Sauce""",Margherita Pizza
+189.00,181.00,chicken_supreme_xl,3.00,3/28/2015,16:19:57,6.18,18.54,XL,Classic,"""Bacon, Onion, Ham, Pineapple, Cheese""",Chicken Supreme Pizza
+190.00,182.00,five_cheese_s,5.00,1/29/2015,03:09:00,21.27,106.35,S,Special,"""Mozzarella Cheese, Provolone Cheese, Gouda Cheese, Romano Cheese, Blue Cheese, Garlic""",The Five Cheese Pizza
+191.00,182.00,classic_dlx_l,2.00,4/29/2015,17:44:57,21.58,43.16,L,Gourmet,"""Mozzarella Cheese, Provolone Cheese, Gouda Cheese, Romano Cheese, Blue Cheese, Garlic""",The Classic Deluxe Pizza
+192.00,184.00,classic_dlx_l,2.00,1/20/2015,04:02:42,20.30,40.60,L,Special,"""Bacon, Onion, Ham, Pineapple, Cheese""",The Classic Deluxe Pizza
+193.00,186.00,five_cheese_s,3.00,12/31/2015,04:02:37,14.79,44.37,S,Special,"""Tomato, Mozzarella, Basil""",The Five Cheese Pizza
+194.00,186.00,five_cheese_s,1.00,9/11/2015,03:13:00,10.56,10.56,S,Gourmet,"""Mozzarella Cheese, Provolone Cheese, Gouda Cheese, Romano Cheese, Blue Cheese, Garlic""",The Five Cheese Pizza
+195.00,186.00,chicken_supreme_s,1.00,1/31/2015,14:54:48,9.66,9.66,S,Spicy,"""Tomato, Mozzarella, Basil""",Chicken Supreme Pizza
+196.00,186.00,chicken_supreme_xl,1.00,5/8/2015,20:30:58,6.66,6.66,XL,Spicy,"""Tomato, Mozzarella, Basil""",Chicken Supreme Pizza
+197.00,186.00,hawaiian_l,2.00,12/9/2015,19:01:35,10.34,20.68,L,Veggie,"""Pepperoni, Mozzarella, Tomato Sauce""",The Hawaiian Pizza
+198.00,186.00,classic_dlx_s,4.00,2/2/2015,20:32:28,16.43,65.72,S,Classic,"""Sliced Ham, Pineapple, Mozzarella Cheese""",The Classic Deluxe Pizza
+199.00,188.00,bbq_chicken_m,4.00,7/23/2015,22:07:36,12.10,48.40,M,Classic,"""Sliced Ham, Pineapple, Mozzarella Cheese""",BBQ Chicken Pizza
+200.00,189.00,chicken_supreme_m,2.00,11/7/2015,12:50:26,9.69,19.38,M,Classic,"""Pepperoni, Mozzarella, Tomato Sauce""",Chicken Supreme Pizza
+201.00,190.00,hawaiian_s,1.00,10/17/2015,00:09:19,19.08,19.08,S,Gourmet,"""Tomato, Mozzarella, Basil""",The Hawaiian Pizza
+202.00,192.00,hawaiian_xl,4.00,7/4/2015,01:04:36,17.23,68.92,XL,Classic,"""Chicken, Mozzarella, Onions, BBQ Sauce""",The Hawaiian Pizza
+203.00,192.00,pepperoni_xl,5.00,6/17/2015,18:56:05,23.69,118.45,XL,Classic,"""Sliced Ham, Pineapple, Mozzarella Cheese""",Pepperoni Pizza
+204.00,192.00,five_cheese_s,5.00,6/5/2015,19:43:02,16.87,84.35,S,Spicy,"""Tomato, Mozzarella, Basil""",The Five Cheese Pizza
+205.00,194.00,chicken_supreme_xl,2.00,10/3/2015,14:39:19,22.68,45.36,XL,Special,"""Bacon, Onion, Ham, Pineapple, Cheese""",Chicken Supreme Pizza
+206.00,196.00,chicken_supreme_m,2.00,6/8/2015,20:51:48,21.27,42.54,M,Classic,"""Sliced Ham, Pineapple, Mozzarella Cheese""",Chicken Supreme Pizza
+207.00,196.00,bbq_chicken_xl,5.00,1/13/2015,20:10:10,14.40,72.00,XL,Gourmet,"""Tomato, Mozzarella, Basil""",BBQ Chicken Pizza
+208.00,196.00,margherita_s,4.00,7/15/2015,02:15:26,15.66,62.64,S,Classic,"""Mozzarella Cheese, Provolone Cheese, Gouda Cheese, Romano Cheese, Blue Cheese, Garlic""",Margherita Pizza
+209.00,198.00,five_cheese_l,4.00,8/17/2015,01:18:53,18.81,75.24,L,Special,"""Tomato, Mozzarella, Basil""",The Five Cheese Pizza
+210.00,199.00,chicken_supreme_m,1.00,9/21/2015,15:24:40,17.38,17.38,M,Spicy,"""Pepperoni, Mozzarella, Tomato Sauce""",Chicken Supreme Pizza
+211.00,200.00,margherita_xl,4.00,12/23/2015,04:47:13,14.13,56.52,XL,Veggie,"""Chicken, Mozzarella, Onions, BBQ Sauce""",Margherita Pizza
+212.00,201.00,classic_dlx_xl,2.00,3/6/2015,13:10:01,6.61,13.22,XL,Classic,"""Pepperoni, Mushrooms, Red Onions, Red Peppers, Bacon""",The Classic Deluxe Pizza
+213.00,201.00,chicken_supreme_m,4.00,4/21/2015,12:13:51,17.14,68.56,M,Special,"""Mozzarella Cheese, Provolone Cheese, Gouda Cheese, Romano Cheese, Blue Cheese, Garlic""",Chicken Supreme Pizza
+214.00,201.00,margherita_s,3.00,10/26/2015,23:14:33,15.46,46.38,S,Spicy,"""Chicken, Mozzarella, Onions, BBQ Sauce""",Margherita Pizza
+215.00,202.00,bbq_chicken_s,5.00,11/19/2015,12:13:23,10.16,50.80,S,Spicy,"""Chicken, Mozzarella, Onions, BBQ Sauce""",BBQ Chicken Pizza
+216.00,202.00,bbq_chicken_s,4.00,9/12/2015,10:25:41,24.30,97.20,S,Spicy,"""Bacon, Onion, Ham, Pineapple, Cheese""",BBQ Chicken Pizza
+217.00,202.00,pepperoni_s,1.00,3/25/2015,21:52:12,20.60,20.60,S,Special,"""Bacon, Onion, Ham, Pineapple, Cheese""",Pepperoni Pizza
+218.00,204.00,margherita_m,5.00,8/17/2015,15:53:30,15.34,76.70,M,Special,"""Sliced Ham, Pineapple, Mozzarella Cheese""",Margherita Pizza
+219.00,205.00,classic_dlx_l,4.00,9/8/2015,23:52:13,16.52,66.08,L,Veggie,"""Mozzarella Cheese, Provolone Cheese, Gouda Cheese, Romano Cheese, Blue Cheese, Garlic""",The Classic Deluxe Pizza
+220.00,207.00,hawaiian_m,5.00,11/24/2015,05:03:13,20.28,101.40,M,Special,"""Chicken, Mozzarella, Onions, BBQ Sauce""",The Hawaiian Pizza
+221.00,209.00,bbq_chicken_s,4.00,2/14/2015,20:26:14,13.86,55.44,S,Special,"""Chicken, Mozzarella, Onions, BBQ Sauce""",BBQ Chicken Pizza
+222.00,209.00,chicken_supreme_xl,2.00,1/4/2015,04:49:50,14.06,28.12,XL,Classic,"""Mozzarella Cheese, Provolone Cheese, Gouda Cheese, Romano Cheese, Blue Cheese, Garlic""",Chicken Supreme Pizza
+223.00,211.00,margherita_xl,4.00,1/12/2015,19:37:36,7.09,28.36,XL,Gourmet,"""Tomato, Mozzarella, Basil""",Margherita Pizza
+224.00,211.00,pepperoni_l,2.00,7/14/2015,21:15:13,19.36,38.72,L,Veggie,"""Pepperoni, Mushrooms, Red Onions, Red Peppers, Bacon""",Pepperoni Pizza
+225.00,211.00,pepperoni_xl,5.00,2/15/2015,01:03:52,12.91,64.55,XL,Special,"""Mozzarella Cheese, Provolone Cheese, Gouda Cheese, Romano Cheese, Blue Cheese, Garlic""",Pepperoni Pizza
+226.00,212.00,classic_dlx_s,5.00,5/4/2015,18:48:08,24.31,121.55,S,Gourmet,"""Pepperoni, Mushrooms, Red Onions, Red Peppers, Bacon""",The Classic Deluxe Pizza
+227.00,212.00,chicken_supreme_xl,4.00,1/2/2015,10:41:19,11.06,44.24,XL,Veggie,"""Tomato, Mozzarella, Basil""",Chicken Supreme Pizza
+228.00,214.00,classic_dlx_l,1.00,8/10/2015,07:45:43,11.62,11.62,L,Spicy,"""Sliced Ham, Pineapple, Mozzarella Cheese""",The Classic Deluxe Pizza
+229.00,216.00,margherita_l,4.00,5/11/2015,08:19:43,8.37,33.48,L,Veggie,"""Pepperoni, Mushrooms, Red Onions, Red Peppers, Bacon""",Margherita Pizza
+230.00,218.00,classic_dlx_s,3.00,3/23/2015,03:39:23,8.85,26.55,S,Gourmet,"""Pepperoni, Mushrooms, Red Onions, Red Peppers, Bacon""",The Classic Deluxe Pizza
+231.00,220.00,hawaiian_xl,4.00,7/4/2015,18:37:09,13.24,52.96,XL,Classic,"""Bacon, Onion, Ham, Pineapple, Cheese""",The Hawaiian Pizza
+232.00,221.00,bbq_chicken_xl,3.00,10/31/2015,04:35:28,15.14,45.42,XL,Spicy,"""Mozzarella Cheese, Provolone Cheese, Gouda Cheese, Romano Cheese, Blue Cheese, Garlic""",BBQ Chicken Pizza
+233.00,221.00,bbq_chicken_s,4.00,10/6/2015,00:02:58,18.10,72.40,S,Spicy,"""Pepperoni, Mushrooms, Red Onions, Red Peppers, Bacon""",BBQ Chicken Pizza
+234.00,221.00,five_cheese_l,3.00,7/30/2015,21:04:05,21.55,64.65,L,Special,"""Tomato, Mozzarella, Basil""",The Five Cheese Pizza
+235.00,223.00,bbq_chicken_xl,4.00,8/25/2015,23:47:43,24.68,98.72,XL,Classic,"""Mozzarella Cheese, Provolone Cheese, Gouda Cheese, Romano Cheese, Blue Cheese, Garlic""",BBQ Chicken Pizza
+236.00,223.00,pepperoni_l,4.00,1/22/2015,17:03:01,6.87,27.48,L,Gourmet,"""Sliced Ham, Pineapple, Mozzarella Cheese""",Pepperoni Pizza
+237.00,224.00,bbq_chicken_l,1.00,3/24/2015,18:04:30,6.74,6.74,L,Veggie,"""Mozzarella Cheese, Provolone Cheese, Gouda Cheese, Romano Cheese, Blue Cheese, Garlic""",BBQ Chicken Pizza
+238.00,225.00,classic_dlx_xl,4.00,6/16/2015,21:56:55,12.72,50.88,XL,Veggie,"""Chicken, Mozzarella, Onions, BBQ Sauce""",The Classic Deluxe Pizza
+239.00,226.00,classic_dlx_m,1.00,4/12/2015,16:41:35,16.76,16.76,M,Special,"""Chicken, Mozzarella, Onions, BBQ Sauce""",The Classic Deluxe Pizza
+240.00,228.00,five_cheese_s,2.00,3/20/2015,10:04:37,22.26,44.52,S,Special,"""Chicken, Mozzarella, Onions, BBQ Sauce""",The Five Cheese Pizza
+241.00,228.00,chicken_supreme_l,1.00,5/11/2015,22:54:11,14.45,14.45,L,Gourmet,"""Pepperoni, Mushrooms, Red Onions, Red Peppers, Bacon""",Chicken Supreme Pizza
+242.00,228.00,margherita_s,2.00,5/5/2015,14:55:54,19.20,38.40,S,Veggie,"""Tomato, Mozzarella, Basil""",Margherita Pizza
+243.00,229.00,hawaiian_s,4.00,8/14/2015,05:42:34,18.03,72.12,S,Special,"""Chicken, Mozzarella, Onions, BBQ Sauce""",The Hawaiian Pizza
+244.00,230.00,hawaiian_s,1.00,10/14/2015,10:06:18,14.59,14.59,S,Spicy,"""Mozzarella Cheese, Provolone Cheese, Gouda Cheese, Romano Cheese, Blue Cheese, Garlic""",The Hawaiian Pizza
+245.00,231.00,classic_dlx_xl,1.00,4/12/2015,08:28:00,12.92,12.92,XL,Classic,"""Chicken, Mozzarella, Onions, BBQ Sauce""",The Classic Deluxe Pizza
+246.00,233.00,bbq_chicken_l,5.00,4/30/2015,20:10:17,21.91,109.55,L,Special,"""Mozzarella Cheese, Provolone Cheese, Gouda Cheese, Romano Cheese, Blue Cheese, Garlic""",BBQ Chicken Pizza
+247.00,234.00,classic_dlx_l,1.00,10/28/2015,08:43:49,24.55,24.55,L,Spicy,"""Pepperoni, Mozzarella, Tomato Sauce""",The Classic Deluxe Pizza
+248.00,236.00,margherita_l,5.00,8/19/2015,23:32:41,24.08,120.40,L,Veggie,"""Tomato, Mozzarella, Basil""",Margherita Pizza
+249.00,237.00,classic_dlx_s,2.00,8/24/2015,00:49:42,24.89,49.78,S,Veggie,"""Pepperoni, Mushrooms, Red Onions, Red Peppers, Bacon""",The Classic Deluxe Pizza
+250.00,238.00,pepperoni_m,2.00,7/2/2015,12:31:59,21.79,43.58,M,Veggie,"""Pepperoni, Mushrooms, Red Onions, Red Peppers, Bacon""",Pepperoni Pizza
+251.00,238.00,margherita_l,5.00,11/10/2015,05:16:22,7.68,38.40,L,Gourmet,"""Sliced Ham, Pineapple, Mozzarella Cheese""",Margherita Pizza
+252.00,240.00,five_cheese_l,1.00,6/3/2015,20:31:16,17.56,17.56,L,Classic,"""Tomato, Mozzarella, Basil""",The Five Cheese Pizza
+253.00,242.00,margherita_xl,3.00,9/17/2015,21:10:02,15.49,46.47,XL,Veggie,"""Chicken, Mozzarella, Onions, BBQ Sauce""",Margherita Pizza
+254.00,243.00,bbq_chicken_l,2.00,4/17/2015,20:01:55,11.09,22.18,L,Gourmet,"""Chicken, Mozzarella, Onions, BBQ Sauce""",BBQ Chicken Pizza
+255.00,243.00,classic_dlx_l,1.00,8/2/2015,17:26:01,18.42,18.42,L,Veggie,"""Pepperoni, Mozzarella, Tomato Sauce""",The Classic Deluxe Pizza
+256.00,245.00,bbq_chicken_m,4.00,5/22/2015,21:35:59,7.51,30.04,M,Classic,"""Chicken, Mozzarella, Onions, BBQ Sauce""",BBQ Chicken Pizza
+257.00,247.00,hawaiian_xl,5.00,2/5/2015,12:27:29,10.16,50.80,XL,Veggie,"""Pepperoni, Mozzarella, Tomato Sauce""",The Hawaiian Pizza
+258.00,248.00,hawaiian_l,3.00,2/3/2015,10:04:57,23.31,69.93,L,Special,"""Sliced Ham, Pineapple, Mozzarella Cheese""",The Hawaiian Pizza
+259.00,250.00,pepperoni_m,3.00,2/12/2015,22:33:51,7.30,21.90,M,Gourmet,"""Sliced Ham, Pineapple, Mozzarella Cheese""",Pepperoni Pizza
+260.00,251.00,margherita_l,1.00,12/17/2015,04:04:50,21.64,21.64,L,Gourmet,"""Pepperoni, Mozzarella, Tomato Sauce""",Margherita Pizza
+261.00,251.00,classic_dlx_m,5.00,12/18/2015,13:20:26,24.86,124.30,M,Classic,"""Chicken, Mozzarella, Onions, BBQ Sauce""",The Classic Deluxe Pizza
+262.00,251.00,five_cheese_s,5.00,12/10/2015,14:06:21,17.20,86.00,S,Classic,"""Chicken, Mozzarella, Onions, BBQ Sauce""",The Five Cheese Pizza
+263.00,253.00,margherita_s,2.00,10/20/2015,10:00:18,11.29,22.58,S,Classic,"""Pepperoni, Mozzarella, Tomato Sauce""",Margherita Pizza
+264.00,254.00,hawaiian_l,1.00,12/20/2015,12:57:41,15.59,15.59,L,Spicy,"""Chicken, Mozzarella, Onions, BBQ Sauce""",The Hawaiian Pizza
+265.00,256.00,bbq_chicken_m,2.00,5/10/2015,18:53:59,22.03,44.06,M,Special,"""Bacon, Onion, Ham, Pineapple, Cheese""",BBQ Chicken Pizza
+266.00,258.00,chicken_supreme_l,5.00,7/29/2015,10:59:59,16.48,82.40,L,Veggie,"""Tomato, Mozzarella, Basil""",Chicken Supreme Pizza
+267.00,259.00,classic_dlx_s,2.00,5/10/2015,04:10:37,13.53,27.06,S,Special,"""Bacon, Onion, Ham, Pineapple, Cheese""",The Classic Deluxe Pizza
+268.00,261.00,chicken_supreme_l,3.00,10/31/2015,02:44:14,5.38,16.14,L,Gourmet,"""Sliced Ham, Pineapple, Mozzarella Cheese""",Chicken Supreme Pizza
+269.00,262.00,pepperoni_l,5.00,7/2/2015,06:20:44,21.22,106.10,L,Veggie,"""Sliced Ham, Pineapple, Mozzarella Cheese""",Pepperoni Pizza
+270.00,262.00,bbq_chicken_s,4.00,7/16/2015,17:25:22,14.96,59.84,S,Spicy,"""Mozzarella Cheese, Provolone Cheese, Gouda Cheese, Romano Cheese, Blue Cheese, Garlic""",BBQ Chicken Pizza
+271.00,264.00,classic_dlx_l,5.00,8/25/2015,00:12:53,16.69,83.45,L,Spicy,"""Bacon, Onion, Ham, Pineapple, Cheese""",The Classic Deluxe Pizza
+272.00,266.00,five_cheese_l,1.00,4/8/2015,19:30:58,17.21,17.21,L,Classic,"""Sliced Ham, Pineapple, Mozzarella Cheese""",The Five Cheese Pizza
+273.00,267.00,pepperoni_m,3.00,2/27/2015,22:38:27,9.30,27.90,M,Veggie,"""Bacon, Onion, Ham, Pineapple, Cheese""",Pepperoni Pizza
+274.00,268.00,chicken_supreme_s,3.00,12/2/2015,07:22:49,14.95,44.85,S,Special,"""Pepperoni, Mushrooms, Red Onions, Red Peppers, Bacon""",Chicken Supreme Pizza
+275.00,270.00,five_cheese_s,3.00,9/18/2015,22:59:43,11.27,33.81,S,Veggie,"""Sliced Ham, Pineapple, Mozzarella Cheese""",The Five Cheese Pizza
+276.00,272.00,hawaiian_m,5.00,1/10/2015,03:15:39,6.39,31.95,M,Gourmet,"""Mozzarella Cheese, Provolone Cheese, Gouda Cheese, Romano Cheese, Blue Cheese, Garlic""",The Hawaiian Pizza
+277.00,273.00,five_cheese_m,5.00,6/20/2015,00:59:57,12.30,61.50,M,Veggie,"""Pepperoni, Mozzarella, Tomato Sauce""",The Five Cheese Pizza
+278.00,274.00,pepperoni_s,5.00,8/13/2015,23:59:22,9.82,49.10,S,Special,"""Bacon, Onion, Ham, Pineapple, Cheese""",Pepperoni Pizza
+279.00,275.00,pepperoni_m,3.00,4/7/2015,09:21:24,23.17,69.51,M,Veggie,"""Bacon, Onion, Ham, Pineapple, Cheese""",Pepperoni Pizza
+280.00,275.00,five_cheese_xl,1.00,8/21/2015,23:56:54,23.53,23.53,XL,Veggie,"""Sliced Ham, Pineapple, Mozzarella Cheese""",The Five Cheese Pizza
+281.00,276.00,chicken_supreme_xl,4.00,8/27/2015,10:54:46,16.42,65.68,XL,Gourmet,"""Mozzarella Cheese, Provolone Cheese, Gouda Cheese, Romano Cheese, Blue Cheese, Garlic""",Chicken Supreme Pizza
+282.00,276.00,bbq_chicken_m,3.00,1/2/2015,13:37:25,6.84,20.52,M,Special,"""Pepperoni, Mozzarella, Tomato Sauce""",BBQ Chicken Pizza
+283.00,278.00,five_cheese_s,3.00,5/14/2015,05:06:33,8.53,25.59,S,Spicy,"""Tomato, Mozzarella, Basil""",The Five Cheese Pizza
+284.00,278.00,classic_dlx_l,1.00,2/10/2015,22:48:25,22.66,22.66,L,Classic,"""Sliced Ham, Pineapple, Mozzarella Cheese""",The Classic Deluxe Pizza
+285.00,279.00,classic_dlx_l,1.00,7/23/2015,00:24:46,10.41,10.41,L,Special,"""Chicken, Mozzarella, Onions, BBQ Sauce""",The Classic Deluxe Pizza
+286.00,281.00,pepperoni_s,2.00,7/10/2015,02:24:19,15.23,30.46,S,Gourmet,"""Chicken, Mozzarella, Onions, BBQ Sauce""",Pepperoni Pizza
+287.00,283.00,five_cheese_m,3.00,6/12/2015,05:21:59,10.98,32.94,M,Special,"""Chicken, Mozzarella, Onions, BBQ Sauce""",The Five Cheese Pizza
+288.00,283.00,pepperoni_m,5.00,2/18/2015,12:29:40,19.33,96.65,M,Classic,"""Sliced Ham, Pineapple, Mozzarella Cheese""",Pepperoni Pizza
+289.00,283.00,hawaiian_l,2.00,10/11/2015,09:36:32,5.23,10.46,L,Spicy,"""Mozzarella Cheese, Provolone Cheese, Gouda Cheese, Romano Cheese, Blue Cheese, Garlic""",The Hawaiian Pizza
+290.00,285.00,margherita_l,5.00,3/19/2015,19:53:02,19.54,97.70,L,Veggie,"""Pepperoni, Mushrooms, Red Onions, Red Peppers, Bacon""",Margherita Pizza
+291.00,285.00,bbq_chicken_xl,2.00,3/20/2015,20:43:54,17.71,35.42,XL,Spicy,"""Pepperoni, Mushrooms, Red Onions, Red Peppers, Bacon""",BBQ Chicken Pizza
+292.00,285.00,five_cheese_xl,1.00,8/6/2015,18:58:43,9.80,9.80,XL,Gourmet,"""Tomato, Mozzarella, Basil""",The Five Cheese Pizza
+293.00,285.00,bbq_chicken_xl,2.00,10/2/2015,07:57:51,23.28,46.56,XL,Classic,"""Bacon, Onion, Ham, Pineapple, Cheese""",BBQ Chicken Pizza
+294.00,287.00,bbq_chicken_l,4.00,12/17/2015,07:12:57,20.83,83.32,L,Veggie,"""Tomato, Mozzarella, Basil""",BBQ Chicken Pizza
+295.00,287.00,chicken_supreme_m,5.00,2/2/2015,05:03:38,6.89,34.45,M,Classic,"""Pepperoni, Mozzarella, Tomato Sauce""",Chicken Supreme Pizza
+296.00,288.00,margherita_l,5.00,1/14/2015,21:38:32,8.95,44.75,L,Special,"""Chicken, Mozzarella, Onions, BBQ Sauce""",Margherita Pizza
+297.00,290.00,margherita_m,3.00,9/22/2015,00:25:42,6.71,20.13,M,Classic,"""Chicken, Mozzarella, Onions, BBQ Sauce""",Margherita Pizza
+298.00,292.00,classic_dlx_s,3.00,4/28/2015,04:48:32,22.20,66.60,S,Gourmet,"""Chicken, Mozzarella, Onions, BBQ Sauce""",The Classic Deluxe Pizza
+299.00,293.00,chicken_supreme_m,4.00,11/16/2015,06:32:01,5.25,21.00,M,Veggie,"""Pepperoni, Mozzarella, Tomato Sauce""",Chicken Supreme Pizza
+300.00,294.00,margherita_s,3.00,7/31/2015,12:24:02,6.45,19.35,S,Veggie,"""Bacon, Onion, Ham, Pineapple, Cheese""",Margherita Pizza
+301.00,296.00,chicken_supreme_m,3.00,3/31/2015,00:01:49,15.78,47.34,M,Gourmet,"""Pepperoni, Mozzarella, Tomato Sauce""",Chicken Supreme Pizza
+302.00,296.00,bbq_chicken_m,2.00,12/10/2015,05:46:51,24.85,49.70,M,Classic,"""Mozzarella Cheese, Provolone Cheese, Gouda Cheese, Romano Cheese, Blue Cheese, Garlic""",BBQ Chicken Pizza
+303.00,297.00,hawaiian_s,5.00,9/19/2015,01:56:08,15.91,79.55,S,Veggie,"""Chicken, Mozzarella, Onions, BBQ Sauce""",The Hawaiian Pizza
+304.00,298.00,pepperoni_xl,4.00,3/20/2015,14:02:34,12.74,50.96,XL,Gourmet,"""Mozzarella Cheese, Provolone Cheese, Gouda Cheese, Romano Cheese, Blue Cheese, Garlic""",Pepperoni Pizza
+305.00,299.00,margherita_xl,3.00,4/21/2015,05:01:54,13.14,39.42,XL,Veggie,"""Sliced Ham, Pineapple, Mozzarella Cheese""",Margherita Pizza
+306.00,300.00,five_cheese_s,4.00,5/22/2015,18:07:58,6.75,27.00,S,Special,"""Tomato, Mozzarella, Basil""",The Five Cheese Pizza
+307.00,300.00,margherita_s,1.00,11/18/2015,18:54:40,11.52,11.52,S,Special,"""Pepperoni, Mushrooms, Red Onions, Red Peppers, Bacon""",Margherita Pizza
+308.00,301.00,hawaiian_l,1.00,7/29/2015,21:23:22,5.10,5.10,L,Gourmet,"""Chicken, Mozzarella, Onions, BBQ Sauce""",The Hawaiian Pizza
+309.00,303.00,hawaiian_xl,1.00,11/17/2015,04:34:03,7.02,7.02,XL,Veggie,"""Tomato, Mozzarella, Basil""",The Hawaiian Pizza
+310.00,304.00,hawaiian_s,4.00,5/13/2015,16:00:24,7.77,31.08,S,Gourmet,"""Sliced Ham, Pineapple, Mozzarella Cheese""",The Hawaiian Pizza
+311.00,305.00,five_cheese_xl,1.00,3/17/2015,00:45:43,17.22,17.22,XL,Spicy,"""Tomato, Mozzarella, Basil""",The Five Cheese Pizza
+312.00,305.00,pepperoni_l,2.00,5/26/2015,19:36:46,14.71,29.42,L,Classic,"""Sliced Ham, Pineapple, Mozzarella Cheese""",Pepperoni Pizza
+313.00,307.00,bbq_chicken_l,4.00,4/20/2015,15:02:50,17.52,70.08,L,Gourmet,"""Pepperoni, Mozzarella, Tomato Sauce""",BBQ Chicken Pizza
+314.00,308.00,bbq_chicken_m,2.00,12/26/2015,05:53:03,12.94,25.88,M,Gourmet,"""Bacon, Onion, Ham, Pineapple, Cheese""",BBQ Chicken Pizza
+315.00,308.00,pepperoni_m,3.00,11/23/2015,10:05:31,5.31,15.93,M,Classic,"""Pepperoni, Mushrooms, Red Onions, Red Peppers, Bacon""",Pepperoni Pizza
+316.00,308.00,classic_dlx_s,1.00,4/28/2015,13:18:27,24.57,24.57,S,Special,"""Pepperoni, Mozzarella, Tomato Sauce""",The Classic Deluxe Pizza
+317.00,309.00,five_cheese_xl,4.00,2/13/2015,02:18:22,7.62,30.48,XL,Special,"""Sliced Ham, Pineapple, Mozzarella Cheese""",The Five Cheese Pizza
+318.00,309.00,hawaiian_m,1.00,5/21/2015,16:23:02,7.07,7.07,M,Special,"""Chicken, Mozzarella, Onions, BBQ Sauce""",The Hawaiian Pizza
+319.00,311.00,hawaiian_l,3.00,3/27/2015,14:37:23,14.84,44.52,L,Veggie,"""Mozzarella Cheese, Provolone Cheese, Gouda Cheese, Romano Cheese, Blue Cheese, Garlic""",The Hawaiian Pizza
+320.00,311.00,margherita_xl,3.00,6/6/2015,05:32:24,11.35,34.05,XL,Veggie,"""Pepperoni, Mozzarella, Tomato Sauce""",Margherita Pizza
+321.00,311.00,five_cheese_l,2.00,10/12/2015,03:22:36,7.42,14.84,L,Spicy,"""Pepperoni, Mozzarella, Tomato Sauce""",The Five Cheese Pizza
+322.00,311.00,five_cheese_s,3.00,12/14/2015,07:16:19,22.78,68.34,S,Special,"""Pepperoni, Mushrooms, Red Onions, Red Peppers, Bacon""",The Five Cheese Pizza
+323.00,311.00,chicken_supreme_xl,4.00,6/22/2015,18:57:06,20.04,80.16,XL,Veggie,"""Sliced Ham, Pineapple, Mozzarella Cheese""",Chicken Supreme Pizza
+324.00,313.00,margherita_l,5.00,6/9/2015,08:19:27,19.26,96.30,L,Spicy,"""Mozzarella Cheese, Provolone Cheese, Gouda Cheese, Romano Cheese, Blue Cheese, Garlic""",Margherita Pizza
+325.00,314.00,classic_dlx_s,5.00,4/26/2015,20:36:55,10.80,54.00,S,Classic,"""Tomato, Mozzarella, Basil""",The Classic Deluxe Pizza
+326.00,316.00,margherita_l,2.00,12/23/2015,18:27:40,8.70,17.40,L,Special,"""Mozzarella Cheese, Provolone Cheese, Gouda Cheese, Romano Cheese, Blue Cheese, Garlic""",Margherita Pizza
+327.00,316.00,pepperoni_m,3.00,3/1/2015,06:51:40,6.06,18.18,M,Veggie,"""Pepperoni, Mozzarella, Tomato Sauce""",Pepperoni Pizza
+328.00,316.00,pepperoni_xl,4.00,7/29/2015,18:55:43,22.31,89.24,XL,Special,"""Pepperoni, Mushrooms, Red Onions, Red Peppers, Bacon""",Pepperoni Pizza
+329.00,318.00,classic_dlx_s,4.00,8/24/2015,21:36:37,5.37,21.48,S,Special,"""Bacon, Onion, Ham, Pineapple, Cheese""",The Classic Deluxe Pizza
+330.00,320.00,classic_dlx_s,1.00,8/28/2015,05:36:11,17.36,17.36,S,Classic,"""Pepperoni, Mozzarella, Tomato Sauce""",The Classic Deluxe Pizza
+331.00,321.00,classic_dlx_s,1.00,4/3/2015,09:22:12,10.90,10.90,S,Gourmet,"""Bacon, Onion, Ham, Pineapple, Cheese""",The Classic Deluxe Pizza
+332.00,321.00,pepperoni_xl,3.00,7/18/2015,21:05:55,7.44,22.32,XL,Spicy,"""Pepperoni, Mozzarella, Tomato Sauce""",Pepperoni Pizza
+333.00,321.00,hawaiian_xl,5.00,7/27/2015,07:28:25,10.81,54.05,XL,Gourmet,"""Pepperoni, Mozzarella, Tomato Sauce""",The Hawaiian Pizza
+334.00,323.00,chicken_supreme_s,1.00,4/28/2015,17:29:31,8.84,8.84,S,Spicy,"""Pepperoni, Mushrooms, Red Onions, Red Peppers, Bacon""",Chicken Supreme Pizza
+335.00,323.00,chicken_supreme_s,2.00,7/3/2015,18:51:00,13.60,27.20,S,Spicy,"""Chicken, Mozzarella, Onions, BBQ Sauce""",Chicken Supreme Pizza
+336.00,324.00,pepperoni_s,1.00,3/17/2015,10:22:34,16.32,16.32,S,Special,"""Tomato, Mozzarella, Basil""",Pepperoni Pizza
+337.00,326.00,classic_dlx_l,4.00,3/4/2015,21:36:23,22.82,91.28,L,Gourmet,"""Pepperoni, Mushrooms, Red Onions, Red Peppers, Bacon""",The Classic Deluxe Pizza
+338.00,327.00,five_cheese_l,4.00,3/20/2015,20:59:22,13.13,52.52,L,Classic,"""Pepperoni, Mushrooms, Red Onions, Red Peppers, Bacon""",The Five Cheese Pizza
+339.00,327.00,pepperoni_xl,3.00,7/26/2015,00:50:38,5.18,15.54,XL,Classic,"""Pepperoni, Mozzarella, Tomato Sauce""",Pepperoni Pizza
+340.00,327.00,bbq_chicken_s,5.00,10/19/2015,13:08:20,11.38,56.90,S,Spicy,"""Chicken, Mozzarella, Onions, BBQ Sauce""",BBQ Chicken Pizza
+341.00,329.00,chicken_supreme_s,1.00,7/15/2015,09:29:46,8.37,8.37,S,Classic,"""Sliced Ham, Pineapple, Mozzarella Cheese""",Chicken Supreme Pizza
+342.00,331.00,margherita_l,5.00,11/3/2015,13:51:13,22.98,114.90,L,Gourmet,"""Mozzarella Cheese, Provolone Cheese, Gouda Cheese, Romano Cheese, Blue Cheese, Garlic""",Margherita Pizza
+343.00,331.00,bbq_chicken_m,1.00,12/13/2015,21:47:42,15.05,15.05,M,Spicy,"""Mozzarella Cheese, Provolone Cheese, Gouda Cheese, Romano Cheese, Blue Cheese, Garlic""",BBQ Chicken Pizza
+344.00,331.00,pepperoni_s,5.00,12/14/2015,18:22:04,7.86,39.30,S,Veggie,"""Pepperoni, Mozzarella, Tomato Sauce""",Pepperoni Pizza
+345.00,333.00,five_cheese_m,1.00,10/30/2015,06:32:32,12.91,12.91,M,Spicy,"""Chicken, Mozzarella, Onions, BBQ Sauce""",The Five Cheese Pizza
+346.00,335.00,margherita_xl,5.00,5/17/2015,13:17:30,5.47,27.35,XL,Veggie,"""Bacon, Onion, Ham, Pineapple, Cheese""",Margherita Pizza
+347.00,336.00,classic_dlx_xl,4.00,2/21/2015,10:48:48,7.86,31.44,XL,Spicy,"""Pepperoni, Mushrooms, Red Onions, Red Peppers, Bacon""",The Classic Deluxe Pizza
+348.00,338.00,bbq_chicken_s,4.00,1/10/2015,05:27:08,6.21,24.84,S,Spicy,"""Chicken, Mozzarella, Onions, BBQ Sauce""",BBQ Chicken Pizza
+349.00,340.00,five_cheese_xl,2.00,3/25/2015,15:21:59,15.43,30.86,XL,Special,"""Bacon, Onion, Ham, Pineapple, Cheese""",The Five Cheese Pizza
+350.00,342.00,margherita_l,3.00,5/26/2015,05:44:16,6.94,20.82,L,Classic,"""Sliced Ham, Pineapple, Mozzarella Cheese""",Margherita Pizza
+351.00,343.00,margherita_s,1.00,8/1/2015,08:07:05,16.88,16.88,S,Special,"""Mozzarella Cheese, Provolone Cheese, Gouda Cheese, Romano Cheese, Blue Cheese, Garlic""",Margherita Pizza
+352.00,345.00,hawaiian_m,1.00,6/30/2015,23:15:46,18.30,18.30,M,Special,"""Bacon, Onion, Ham, Pineapple, Cheese""",The Hawaiian Pizza
+353.00,345.00,bbq_chicken_xl,5.00,8/12/2015,06:11:00,12.46,62.30,XL,Classic,"""Bacon, Onion, Ham, Pineapple, Cheese""",BBQ Chicken Pizza
+354.00,347.00,five_cheese_xl,4.00,8/5/2015,08:03:56,20.00,80.00,XL,Special,"""Sliced Ham, Pineapple, Mozzarella Cheese""",The Five Cheese Pizza
+355.00,349.00,pepperoni_l,1.00,9/16/2015,02:35:56,17.27,17.27,L,Spicy,"""Mozzarella Cheese, Provolone Cheese, Gouda Cheese, Romano Cheese, Blue Cheese, Garlic""",Pepperoni Pizza
+356.00,350.00,hawaiian_xl,3.00,8/13/2015,01:40:05,15.40,46.20,XL,Gourmet,"""Tomato, Mozzarella, Basil""",The Hawaiian Pizza
+357.00,350.00,margherita_m,3.00,2/16/2015,02:18:36,6.31,18.93,M,Special,"""Sliced Ham, Pineapple, Mozzarella Cheese""",Margherita Pizza
+358.00,351.00,chicken_supreme_s,1.00,9/18/2015,07:49:22,10.26,10.26,S,Special,"""Pepperoni, Mushrooms, Red Onions, Red Peppers, Bacon""",Chicken Supreme Pizza
+359.00,351.00,hawaiian_m,5.00,8/12/2015,18:05:19,23.34,116.70,M,Classic,"""Bacon, Onion, Ham, Pineapple, Cheese""",The Hawaiian Pizza
+360.00,352.00,bbq_chicken_xl,3.00,8/26/2015,05:31:50,19.18,57.54,XL,Special,"""Chicken, Mozzarella, Onions, BBQ Sauce""",BBQ Chicken Pizza
+361.00,352.00,bbq_chicken_l,5.00,7/8/2015,22:51:47,14.34,71.70,L,Gourmet,"""Mozzarella Cheese, Provolone Cheese, Gouda Cheese, Romano Cheese, Blue Cheese, Garlic""",BBQ Chicken Pizza
+362.00,353.00,pepperoni_xl,5.00,7/26/2015,22:21:18,19.14,95.70,XL,Spicy,"""Pepperoni, Mushrooms, Red Onions, Red Peppers, Bacon""",Pepperoni Pizza
+363.00,355.00,five_cheese_l,1.00,10/25/2015,20:41:44,8.19,8.19,L,Veggie,"""Sliced Ham, Pineapple, Mozzarella Cheese""",The Five Cheese Pizza
+364.00,355.00,hawaiian_xl,3.00,7/19/2015,11:01:52,18.07,54.21,XL,Classic,"""Mozzarella Cheese, Provolone Cheese, Gouda Cheese, Romano Cheese, Blue Cheese, Garlic""",The Hawaiian Pizza
+365.00,357.00,pepperoni_s,5.00,7/31/2015,19:46:06,21.69,108.45,S,Special,"""Chicken, Mozzarella, Onions, BBQ Sauce""",Pepperoni Pizza
+366.00,357.00,pepperoni_m,5.00,5/29/2015,00:46:26,15.28,76.40,M,Veggie,"""Chicken, Mozzarella, Onions, BBQ Sauce""",Pepperoni Pizza
+367.00,359.00,classic_dlx_l,1.00,1/7/2015,14:10:57,7.46,7.46,L,Classic,"""Tomato, Mozzarella, Basil""",The Classic Deluxe Pizza
+368.00,361.00,margherita_xl,2.00,8/6/2015,23:54:05,21.72,43.44,XL,Classic,"""Bacon, Onion, Ham, Pineapple, Cheese""",Margherita Pizza
+369.00,362.00,classic_dlx_l,1.00,6/13/2015,04:46:38,22.76,22.76,L,Special,"""Chicken, Mozzarella, Onions, BBQ Sauce""",The Classic Deluxe Pizza
+370.00,362.00,chicken_supreme_m,4.00,7/2/2015,01:28:49,7.21,28.84,M,Spicy,"""Pepperoni, Mushrooms, Red Onions, Red Peppers, Bacon""",Chicken Supreme Pizza
+371.00,363.00,margherita_l,5.00,4/26/2015,17:05:19,15.95,79.75,L,Gourmet,"""Chicken, Mozzarella, Onions, BBQ Sauce""",Margherita Pizza
+372.00,365.00,chicken_supreme_m,3.00,12/30/2015,07:43:21,22.25,66.75,M,Veggie,"""Pepperoni, Mushrooms, Red Onions, Red Peppers, Bacon""",Chicken Supreme Pizza
+373.00,365.00,classic_dlx_xl,2.00,8/4/2015,01:01:43,9.12,18.24,XL,Veggie,"""Mozzarella Cheese, Provolone Cheese, Gouda Cheese, Romano Cheese, Blue Cheese, Garlic""",The Classic Deluxe Pizza
+374.00,367.00,bbq_chicken_l,5.00,5/9/2015,02:05:33,10.57,52.85,L,Special,"""Bacon, Onion, Ham, Pineapple, Cheese""",BBQ Chicken Pizza
+375.00,367.00,pepperoni_xl,4.00,10/26/2015,23:08:03,19.55,78.20,XL,Veggie,"""Sliced Ham, Pineapple, Mozzarella Cheese""",Pepperoni Pizza
+376.00,367.00,bbq_chicken_l,4.00,9/8/2015,00:32:39,18.08,72.32,L,Classic,"""Sliced Ham, Pineapple, Mozzarella Cheese""",BBQ Chicken Pizza
+377.00,367.00,pepperoni_l,3.00,8/19/2015,14:36:59,12.96,38.88,L,Gourmet,"""Tomato, Mozzarella, Basil""",Pepperoni Pizza
+378.00,369.00,classic_dlx_m,4.00,8/29/2015,11:52:47,21.16,84.64,M,Spicy,"""Tomato, Mozzarella, Basil""",The Classic Deluxe Pizza
+379.00,371.00,hawaiian_l,5.00,1/5/2015,04:56:24,18.77,93.85,L,Spicy,"""Pepperoni, Mushrooms, Red Onions, Red Peppers, Bacon""",The Hawaiian Pizza
+380.00,371.00,chicken_supreme_s,5.00,10/6/2015,04:14:15,19.49,97.45,S,Spicy,"""Bacon, Onion, Ham, Pineapple, Cheese""",Chicken Supreme Pizza
+381.00,373.00,five_cheese_s,5.00,7/2/2015,23:12:57,18.36,91.80,S,Spicy,"""Bacon, Onion, Ham, Pineapple, Cheese""",The Five Cheese Pizza
+382.00,375.00,five_cheese_xl,3.00,8/22/2015,10:12:07,6.67,20.01,XL,Spicy,"""Tomato, Mozzarella, Basil""",The Five Cheese Pizza
+383.00,377.00,classic_dlx_l,4.00,5/17/2015,18:15:23,18.56,74.24,L,Classic,"""Pepperoni, Mozzarella, Tomato Sauce""",The Classic Deluxe Pizza
+384.00,377.00,bbq_chicken_l,2.00,3/29/2015,19:37:45,8.77,17.54,L,Veggie,"""Bacon, Onion, Ham, Pineapple, Cheese""",BBQ Chicken Pizza
+385.00,379.00,bbq_chicken_xl,2.00,11/24/2015,17:20:40,7.40,14.80,XL,Veggie,"""Tomato, Mozzarella, Basil""",BBQ Chicken Pizza
+386.00,381.00,classic_dlx_l,4.00,3/9/2015,01:56:47,12.19,48.76,L,Gourmet,"""Pepperoni, Mozzarella, Tomato Sauce""",The Classic Deluxe Pizza
+387.00,383.00,classic_dlx_s,5.00,1/25/2015,01:41:12,8.69,43.45,S,Special,"""Mozzarella Cheese, Provolone Cheese, Gouda Cheese, Romano Cheese, Blue Cheese, Garlic""",The Classic Deluxe Pizza
+388.00,383.00,hawaiian_s,3.00,11/25/2015,22:16:07,13.46,40.38,S,Gourmet,"""Chicken, Mozzarella, Onions, BBQ Sauce""",The Hawaiian Pizza
+389.00,385.00,margherita_l,4.00,12/26/2015,10:36:57,17.98,71.92,L,Veggie,"""Mozzarella Cheese, Provolone Cheese, Gouda Cheese, Romano Cheese, Blue Cheese, Garlic""",Margherita Pizza
+390.00,386.00,pepperoni_xl,3.00,3/3/2015,11:18:06,22.62,67.86,XL,Gourmet,"""Tomato, Mozzarella, Basil""",Pepperoni Pizza
+391.00,387.00,bbq_chicken_s,2.00,7/28/2015,17:29:21,22.22,44.44,S,Veggie,"""Sliced Ham, Pineapple, Mozzarella Cheese""",BBQ Chicken Pizza
+392.00,389.00,hawaiian_m,2.00,7/26/2015,00:37:00,24.48,48.96,M,Gourmet,"""Pepperoni, Mozzarella, Tomato Sauce""",The Hawaiian Pizza
+393.00,390.00,chicken_supreme_xl,3.00,2/15/2015,17:49:41,17.44,52.32,XL,Veggie,"""Pepperoni, Mozzarella, Tomato Sauce""",Chicken Supreme Pizza
+394.00,391.00,bbq_chicken_m,1.00,10/5/2015,20:44:58,19.72,19.72,M,Spicy,"""Chicken, Mozzarella, Onions, BBQ Sauce""",BBQ Chicken Pizza
+395.00,393.00,five_cheese_m,2.00,6/2/2015,07:38:02,15.11,30.22,M,Classic,"""Tomato, Mozzarella, Basil""",The Five Cheese Pizza
+396.00,394.00,pepperoni_s,3.00,3/23/2015,23:35:01,15.79,47.37,S,Gourmet,"""Pepperoni, Mozzarella, Tomato Sauce""",Pepperoni Pizza
+397.00,394.00,hawaiian_s,3.00,12/20/2015,03:15:27,18.25,54.75,S,Spicy,"""Mozzarella Cheese, Provolone Cheese, Gouda Cheese, Romano Cheese, Blue Cheese, Garlic""",The Hawaiian Pizza
+398.00,394.00,bbq_chicken_m,4.00,2/9/2015,06:37:31,20.51,82.04,M,Spicy,"""Mozzarella Cheese, Provolone Cheese, Gouda Cheese, Romano Cheese, Blue Cheese, Garlic""",BBQ Chicken Pizza
+399.00,395.00,hawaiian_xl,3.00,8/20/2015,05:06:41,23.14,69.42,XL,Special,"""Chicken, Mozzarella, Onions, BBQ Sauce""",The Hawaiian Pizza
+400.00,396.00,five_cheese_l,2.00,4/11/2015,17:05:55,24.20,48.40,L,Gourmet,"""Bacon, Onion, Ham, Pineapple, Cheese""",The Five Cheese Pizza
+401.00,397.00,margherita_l,2.00,3/24/2015,06:01:09,10.05,20.10,L,Veggie,"""Pepperoni, Mozzarella, Tomato Sauce""",Margherita Pizza
+402.00,399.00,hawaiian_m,1.00,5/4/2015,14:38:50,12.46,12.46,M,Special,"""Pepperoni, Mushrooms, Red Onions, Red Peppers, Bacon""",The Hawaiian Pizza
+403.00,401.00,bbq_chicken_m,4.00,6/28/2015,21:35:36,15.31,61.24,M,Gourmet,"""Mozzarella Cheese, Provolone Cheese, Gouda Cheese, Romano Cheese, Blue Cheese, Garlic""",BBQ Chicken Pizza
+404.00,401.00,chicken_supreme_s,2.00,3/24/2015,17:08:46,23.96,47.92,S,Special,"""Pepperoni, Mushrooms, Red Onions, Red Peppers, Bacon""",Chicken Supreme Pizza
+405.00,401.00,hawaiian_m,1.00,1/31/2015,15:34:00,22.93,22.93,M,Special,"""Bacon, Onion, Ham, Pineapple, Cheese""",The Hawaiian Pizza
+406.00,403.00,five_cheese_s,3.00,6/18/2015,00:39:51,23.82,71.46,S,Gourmet,"""Sliced Ham, Pineapple, Mozzarella Cheese""",The Five Cheese Pizza
+407.00,405.00,classic_dlx_l,4.00,3/31/2015,09:45:21,18.61,74.44,L,Gourmet,"""Mozzarella Cheese, Provolone Cheese, Gouda Cheese, Romano Cheese, Blue Cheese, Garlic""",The Classic Deluxe Pizza
+408.00,407.00,chicken_supreme_xl,3.00,5/6/2015,11:45:24,13.94,41.82,XL,Gourmet,"""Bacon, Onion, Ham, Pineapple, Cheese""",Chicken Supreme Pizza
+409.00,408.00,bbq_chicken_m,3.00,6/23/2015,02:24:11,21.06,63.18,M,Veggie,"""Mozzarella Cheese, Provolone Cheese, Gouda Cheese, Romano Cheese, Blue Cheese, Garlic""",BBQ Chicken Pizza
+410.00,408.00,pepperoni_s,3.00,9/16/2015,08:53:29,22.66,67.98,S,Classic,"""Bacon, Onion, Ham, Pineapple, Cheese""",Pepperoni Pizza
+411.00,409.00,chicken_supreme_xl,3.00,8/2/2015,18:57:11,18.86,56.58,XL,Spicy,"""Pepperoni, Mushrooms, Red Onions, Red Peppers, Bacon""",Chicken Supreme Pizza
+412.00,411.00,pepperoni_s,5.00,11/24/2015,01:29:33,21.58,107.90,S,Spicy,"""Chicken, Mozzarella, Onions, BBQ Sauce""",Pepperoni Pizza
+413.00,413.00,bbq_chicken_m,3.00,6/18/2015,09:42:54,6.66,19.98,M,Spicy,"""Pepperoni, Mozzarella, Tomato Sauce""",BBQ Chicken Pizza
+414.00,414.00,bbq_chicken_xl,2.00,8/24/2015,06:39:34,9.54,19.08,XL,Spicy,"""Bacon, Onion, Ham, Pineapple, Cheese""",BBQ Chicken Pizza
+415.00,415.00,pepperoni_xl,2.00,7/30/2015,09:11:22,14.78,29.56,XL,Special,"""Sliced Ham, Pineapple, Mozzarella Cheese""",Pepperoni Pizza
+416.00,417.00,chicken_supreme_m,5.00,3/18/2015,03:30:24,13.62,68.10,M,Veggie,"""Bacon, Onion, Ham, Pineapple, Cheese""",Chicken Supreme Pizza
+417.00,419.00,five_cheese_m,1.00,7/9/2015,02:15:59,23.90,23.90,M,Special,"""Sliced Ham, Pineapple, Mozzarella Cheese""",The Five Cheese Pizza
+418.00,421.00,hawaiian_m,3.00,4/14/2015,13:00:08,11.36,34.08,M,Spicy,"""Tomato, Mozzarella, Basil""",The Hawaiian Pizza
+419.00,423.00,chicken_supreme_m,2.00,6/28/2015,13:21:53,20.44,40.88,M,Gourmet,"""Chicken, Mozzarella, Onions, BBQ Sauce""",Chicken Supreme Pizza
+420.00,423.00,five_cheese_s,5.00,1/16/2015,13:53:41,5.81,29.05,S,Special,"""Pepperoni, Mushrooms, Red Onions, Red Peppers, Bacon""",The Five Cheese Pizza
+421.00,424.00,five_cheese_l,2.00,10/19/2015,18:24:14,20.21,40.42,L,Gourmet,"""Sliced Ham, Pineapple, Mozzarella Cheese""",The Five Cheese Pizza
+422.00,425.00,margherita_m,1.00,1/28/2015,10:40:31,6.40,6.40,M,Spicy,"""Pepperoni, Mozzarella, Tomato Sauce""",Margherita Pizza
+423.00,426.00,hawaiian_m,4.00,12/21/2015,10:59:13,7.71,30.84,M,Veggie,"""Pepperoni, Mozzarella, Tomato Sauce""",The Hawaiian Pizza
+424.00,426.00,classic_dlx_m,3.00,8/16/2015,14:31:29,15.22,45.66,M,Gourmet,"""Bacon, Onion, Ham, Pineapple, Cheese""",The Classic Deluxe Pizza
+425.00,427.00,pepperoni_m,1.00,12/2/2015,03:57:54,8.58,8.58,M,Gourmet,"""Tomato, Mozzarella, Basil""",Pepperoni Pizza
+426.00,429.00,five_cheese_m,2.00,2/5/2015,05:44:16,18.80,37.60,M,Classic,"""Mozzarella Cheese, Provolone Cheese, Gouda Cheese, Romano Cheese, Blue Cheese, Garlic""",The Five Cheese Pizza
+427.00,429.00,classic_dlx_xl,4.00,12/30/2015,07:04:40,11.45,45.80,XL,Spicy,"""Tomato, Mozzarella, Basil""",The Classic Deluxe Pizza
+428.00,430.00,pepperoni_m,4.00,12/10/2015,15:03:15,19.91,79.64,M,Gourmet,"""Sliced Ham, Pineapple, Mozzarella Cheese""",Pepperoni Pizza
+429.00,432.00,pepperoni_l,3.00,11/13/2015,23:47:22,9.03,27.09,L,Gourmet,"""Bacon, Onion, Ham, Pineapple, Cheese""",Pepperoni Pizza
+430.00,433.00,classic_dlx_l,2.00,1/16/2015,07:57:27,20.05,40.10,L,Gourmet,"""Sliced Ham, Pineapple, Mozzarella Cheese""",The Classic Deluxe Pizza
+431.00,435.00,classic_dlx_m,4.00,3/3/2015,07:44:05,17.88,71.52,M,Special,"""Sliced Ham, Pineapple, Mozzarella Cheese""",The Classic Deluxe Pizza
+432.00,436.00,five_cheese_xl,4.00,1/6/2015,07:38:52,5.53,22.12,XL,Classic,"""Sliced Ham, Pineapple, Mozzarella Cheese""",The Five Cheese Pizza
+433.00,437.00,classic_dlx_m,1.00,6/15/2015,20:32:36,11.44,11.44,M,Veggie,"""Chicken, Mozzarella, Onions, BBQ Sauce""",The Classic Deluxe Pizza
+434.00,439.00,pepperoni_xl,5.00,11/5/2015,02:07:35,8.48,42.40,XL,Veggie,"""Sliced Ham, Pineapple, Mozzarella Cheese""",Pepperoni Pizza
+435.00,441.00,hawaiian_m,2.00,1/24/2015,07:30:13,19.89,39.78,M,Classic,"""Chicken, Mozzarella, Onions, BBQ Sauce""",The Hawaiian Pizza
+436.00,443.00,bbq_chicken_l,3.00,11/4/2015,01:51:33,15.64,46.92,L,Gourmet,"""Tomato, Mozzarella, Basil""",BBQ Chicken Pizza
+437.00,444.00,five_cheese_m,2.00,6/17/2015,05:41:07,5.01,10.02,M,Classic,"""Tomato, Mozzarella, Basil""",The Five Cheese Pizza
+438.00,445.00,chicken_supreme_m,4.00,10/19/2015,05:42:06,23.76,95.04,M,Gourmet,"""Chicken, Mozzarella, Onions, BBQ Sauce""",Chicken Supreme Pizza
+439.00,446.00,margherita_xl,4.00,3/6/2015,06:13:19,14.60,58.40,XL,Veggie,"""Pepperoni, Mushrooms, Red Onions, Red Peppers, Bacon""",Margherita Pizza
+440.00,448.00,hawaiian_l,3.00,11/9/2015,19:55:30,23.27,69.81,L,Veggie,"""Sliced Ham, Pineapple, Mozzarella Cheese""",The Hawaiian Pizza
+441.00,450.00,margherita_l,4.00,6/11/2015,18:20:47,12.55,50.20,L,Spicy,"""Pepperoni, Mozzarella, Tomato Sauce""",Margherita Pizza
+442.00,451.00,pepperoni_s,3.00,5/23/2015,15:01:51,7.21,21.63,S,Spicy,"""Pepperoni, Mushrooms, Red Onions, Red Peppers, Bacon""",Pepperoni Pizza
+443.00,452.00,chicken_supreme_l,1.00,2/1/2015,15:12:10,15.39,15.39,L,Classic,"""Pepperoni, Mozzarella, Tomato Sauce""",Chicken Supreme Pizza
+444.00,454.00,chicken_supreme_s,1.00,1/11/2015,10:01:37,22.22,22.22,S,Veggie,"""Mozzarella Cheese, Provolone Cheese, Gouda Cheese, Romano Cheese, Blue Cheese, Garlic""",Chicken Supreme Pizza
+445.00,456.00,chicken_supreme_s,1.00,4/28/2015,21:09:44,22.28,22.28,S,Veggie,"""Pepperoni, Mozzarella, Tomato Sauce""",Chicken Supreme Pizza
+446.00,456.00,margherita_l,3.00,2/13/2015,11:57:41,11.75,35.25,L,Special,"""Bacon, Onion, Ham, Pineapple, Cheese""",Margherita Pizza
+447.00,456.00,chicken_supreme_m,5.00,5/23/2015,08:59:39,5.90,29.50,M,Special,"""Pepperoni, Mozzarella, Tomato Sauce""",Chicken Supreme Pizza
+448.00,458.00,bbq_chicken_s,5.00,4/1/2015,08:42:13,18.29,91.45,S,Gourmet,"""Tomato, Mozzarella, Basil""",BBQ Chicken Pizza
+449.00,458.00,hawaiian_m,5.00,4/15/2015,14:31:10,12.56,62.80,M,Classic,"""Tomato, Mozzarella, Basil""",The Hawaiian Pizza
+450.00,460.00,five_cheese_xl,2.00,6/12/2015,14:22:44,14.32,28.64,XL,Spicy,"""Pepperoni, Mushrooms, Red Onions, Red Peppers, Bacon""",The Five Cheese Pizza
+451.00,462.00,chicken_supreme_s,4.00,6/2/2015,18:31:41,17.48,69.92,S,Special,"""Bacon, Onion, Ham, Pineapple, Cheese""",Chicken Supreme Pizza
+452.00,462.00,chicken_supreme_m,3.00,6/9/2015,05:28:30,19.79,59.37,M,Classic,"""Tomato, Mozzarella, Basil""",Chicken Supreme Pizza
+453.00,462.00,classic_dlx_m,2.00,3/6/2015,16:24:39,15.85,31.70,M,Gourmet,"""Bacon, Onion, Ham, Pineapple, Cheese""",The Classic Deluxe Pizza
+454.00,464.00,chicken_supreme_m,3.00,7/1/2015,20:22:11,14.61,43.83,M,Spicy,"""Mozzarella Cheese, Provolone Cheese, Gouda Cheese, Romano Cheese, Blue Cheese, Garlic""",Chicken Supreme Pizza
+455.00,464.00,classic_dlx_xl,3.00,8/18/2015,05:46:02,19.16,57.48,XL,Veggie,"""Sliced Ham, Pineapple, Mozzarella Cheese""",The Classic Deluxe Pizza
+456.00,464.00,hawaiian_m,2.00,10/30/2015,22:58:34,22.82,45.64,M,Special,"""Mozzarella Cheese, Provolone Cheese, Gouda Cheese, Romano Cheese, Blue Cheese, Garlic""",The Hawaiian Pizza
+457.00,464.00,bbq_chicken_l,1.00,7/5/2015,14:43:17,18.12,18.12,L,Veggie,"""Chicken, Mozzarella, Onions, BBQ Sauce""",BBQ Chicken Pizza
+458.00,464.00,five_cheese_xl,3.00,4/24/2015,07:28:37,16.30,48.90,XL,Gourmet,"""Pepperoni, Mushrooms, Red Onions, Red Peppers, Bacon""",The Five Cheese Pizza
+459.00,466.00,margherita_s,5.00,4/14/2015,05:28:01,9.35,46.75,S,Special,"""Bacon, Onion, Ham, Pineapple, Cheese""",Margherita Pizza
+460.00,466.00,five_cheese_s,1.00,2/28/2015,16:05:51,16.26,16.26,S,Veggie,"""Tomato, Mozzarella, Basil""",The Five Cheese Pizza
+461.00,467.00,pepperoni_xl,5.00,9/15/2015,20:43:27,5.11,25.55,XL,Spicy,"""Mozzarella Cheese, Provolone Cheese, Gouda Cheese, Romano Cheese, Blue Cheese, Garlic""",Pepperoni Pizza
+462.00,469.00,chicken_supreme_m,5.00,7/14/2015,01:57:47,8.24,41.20,M,Veggie,"""Tomato, Mozzarella, Basil""",Chicken Supreme Pizza
+463.00,471.00,pepperoni_xl,3.00,5/21/2015,02:30:29,10.67,32.01,XL,Classic,"""Chicken, Mozzarella, Onions, BBQ Sauce""",Pepperoni Pizza
+464.00,471.00,pepperoni_s,2.00,10/23/2015,09:39:46,13.85,27.70,S,Classic,"""Pepperoni, Mushrooms, Red Onions, Red Peppers, Bacon""",Pepperoni Pizza
+465.00,472.00,margherita_l,4.00,1/28/2015,03:35:28,10.14,40.56,L,Spicy,"""Bacon, Onion, Ham, Pineapple, Cheese""",Margherita Pizza
+466.00,472.00,chicken_supreme_s,2.00,5/19/2015,19:12:35,14.06,28.12,S,Gourmet,"""Chicken, Mozzarella, Onions, BBQ Sauce""",Chicken Supreme Pizza
+467.00,472.00,hawaiian_m,1.00,8/20/2015,09:10:04,19.75,19.75,M,Veggie,"""Pepperoni, Mozzarella, Tomato Sauce""",The Hawaiian Pizza
+468.00,473.00,margherita_xl,2.00,11/11/2015,02:56:25,6.70,13.40,XL,Veggie,"""Pepperoni, Mozzarella, Tomato Sauce""",Margherita Pizza
+469.00,474.00,chicken_supreme_xl,3.00,8/15/2015,18:41:17,7.26,21.78,XL,Special,"""Mozzarella Cheese, Provolone Cheese, Gouda Cheese, Romano Cheese, Blue Cheese, Garlic""",Chicken Supreme Pizza
+470.00,475.00,pepperoni_s,1.00,2/28/2015,08:31:10,13.95,13.95,S,Gourmet,"""Tomato, Mozzarella, Basil""",Pepperoni Pizza
+471.00,476.00,hawaiian_m,5.00,4/21/2015,22:58:21,24.58,122.90,M,Spicy,"""Pepperoni, Mozzarella, Tomato Sauce""",The Hawaiian Pizza
+472.00,476.00,margherita_m,2.00,12/24/2015,08:18:02,20.10,40.20,M,Spicy,"""Pepperoni, Mozzarella, Tomato Sauce""",Margherita Pizza
+473.00,476.00,bbq_chicken_l,1.00,11/11/2015,10:04:02,19.60,19.60,L,Spicy,"""Pepperoni, Mushrooms, Red Onions, Red Peppers, Bacon""",BBQ Chicken Pizza
+474.00,477.00,pepperoni_s,4.00,12/7/2015,09:10:54,15.97,63.88,S,Special,"""Bacon, Onion, Ham, Pineapple, Cheese""",Pepperoni Pizza
+475.00,479.00,classic_dlx_m,4.00,5/16/2015,02:04:52,21.04,84.16,M,Special,"""Pepperoni, Mozzarella, Tomato Sauce""",The Classic Deluxe Pizza
+476.00,480.00,chicken_supreme_l,5.00,9/14/2015,22:25:19,7.63,38.15,L,Spicy,"""Chicken, Mozzarella, Onions, BBQ Sauce""",Chicken Supreme Pizza
+477.00,482.00,chicken_supreme_xl,3.00,2/28/2015,23:49:15,16.82,50.46,XL,Veggie,"""Chicken, Mozzarella, Onions, BBQ Sauce""",Chicken Supreme Pizza
+478.00,482.00,chicken_supreme_l,3.00,5/1/2015,09:23:15,17.64,52.92,L,Veggie,"""Chicken, Mozzarella, Onions, BBQ Sauce""",Chicken Supreme Pizza
+479.00,484.00,hawaiian_s,3.00,8/9/2015,22:32:18,12.08,36.24,S,Veggie,"""Sliced Ham, Pineapple, Mozzarella Cheese""",The Hawaiian Pizza
+480.00,486.00,pepperoni_m,2.00,11/18/2015,05:38:39,15.27,30.54,M,Special,"""Sliced Ham, Pineapple, Mozzarella Cheese""",Pepperoni Pizza
+481.00,488.00,classic_dlx_l,4.00,10/9/2015,12:26:30,22.51,90.04,L,Classic,"""Pepperoni, Mozzarella, Tomato Sauce""",The Classic Deluxe Pizza
+482.00,488.00,margherita_m,5.00,12/24/2015,01:44:04,21.75,108.75,M,Veggie,"""Sliced Ham, Pineapple, Mozzarella Cheese""",Margherita Pizza
+483.00,489.00,hawaiian_xl,1.00,5/10/2015,00:16:56,20.18,20.18,XL,Special,"""Tomato, Mozzarella, Basil""",The Hawaiian Pizza
+484.00,489.00,margherita_xl,3.00,2/26/2015,14:22:29,22.38,67.14,XL,Spicy,"""Pepperoni, Mushrooms, Red Onions, Red Peppers, Bacon""",Margherita Pizza
+485.00,489.00,classic_dlx_m,3.00,6/24/2015,23:05:53,22.03,66.09,M,Gourmet,"""Pepperoni, Mushrooms, Red Onions, Red Peppers, Bacon""",The Classic Deluxe Pizza
+486.00,489.00,chicken_supreme_m,3.00,4/5/2015,00:52:35,24.58,73.74,M,Gourmet,"""Pepperoni, Mushrooms, Red Onions, Red Peppers, Bacon""",Chicken Supreme Pizza
+487.00,489.00,margherita_l,5.00,12/7/2015,19:01:44,22.21,111.05,L,Classic,"""Sliced Ham, Pineapple, Mozzarella Cheese""",Margherita Pizza
+488.00,491.00,margherita_s,4.00,9/3/2015,15:52:54,19.76,79.04,S,Special,"""Pepperoni, Mushrooms, Red Onions, Red Peppers, Bacon""",Margherita Pizza
+489.00,491.00,hawaiian_m,4.00,6/22/2015,11:16:33,7.07,28.28,M,Classic,"""Sliced Ham, Pineapple, Mozzarella Cheese""",The Hawaiian Pizza
+490.00,493.00,five_cheese_s,1.00,12/28/2015,22:16:49,18.21,18.21,S,Veggie,"""Mozzarella Cheese, Provolone Cheese, Gouda Cheese, Romano Cheese, Blue Cheese, Garlic""",The Five Cheese Pizza
+491.00,493.00,five_cheese_l,2.00,1/16/2015,01:46:30,14.37,28.74,L,Classic,"""Tomato, Mozzarella, Basil""",The Five Cheese Pizza
+492.00,494.00,margherita_xl,1.00,6/3/2015,09:20:59,23.78,23.78,XL,Special,"""Pepperoni, Mushrooms, Red Onions, Red Peppers, Bacon""",Margherita Pizza
+493.00,495.00,margherita_s,3.00,12/26/2015,05:59:42,15.90,47.70,S,Veggie,"""Pepperoni, Mozzarella, Tomato Sauce""",Margherita Pizza
+494.00,497.00,pepperoni_l,4.00,9/10/2015,22:15:00,14.52,58.08,L,Spicy,"""Mozzarella Cheese, Provolone Cheese, Gouda Cheese, Romano Cheese, Blue Cheese, Garlic""",Pepperoni Pizza
+495.00,499.00,five_cheese_l,2.00,1/19/2015,14:25:05,23.27,46.54,L,Spicy,"""Bacon, Onion, Ham, Pineapple, Cheese""",The Five Cheese Pizza
+496.00,501.00,hawaiian_xl,2.00,1/31/2015,00:37:32,22.08,44.16,XL,Classic,"""Chicken, Mozzarella, Onions, BBQ Sauce""",The Hawaiian Pizza
+497.00,502.00,bbq_chicken_l,1.00,3/1/2015,20:42:30,22.35,22.35,L,Gourmet,"""Mozzarella Cheese, Provolone Cheese, Gouda Cheese, Romano Cheese, Blue Cheese, Garlic""",BBQ Chicken Pizza
+498.00,503.00,five_cheese_m,3.00,10/13/2015,00:54:27,5.44,16.32,M,Special,"""Bacon, Onion, Ham, Pineapple, Cheese""",The Five Cheese Pizza
+499.00,505.00,margherita_s,4.00,3/7/2015,03:41:54,6.02,24.08,S,Special,"""Bacon, Onion, Ham, Pineapple, Cheese""",Margherita Pizza
+500.00,507.00,bbq_chicken_m,4.00,5/26/2015,01:40:27,14.74,58.96,M,Veggie,"""Mozzarella Cheese, Provolone Cheese, Gouda Cheese, Romano Cheese, Blue Cheese, Garlic""",BBQ Chicken Pizza
+501.00,507.00,hawaiian_m,3.00,1/21/2015,11:06:02,11.27,33.81,M,Gourmet,"""Sliced Ham, Pineapple, Mozzarella Cheese""",The Hawaiian Pizza
+502.00,509.00,pepperoni_s,3.00,12/2/2015,20:06:15,18.64,55.92,S,Gourmet,"""Bacon, Onion, Ham, Pineapple, Cheese""",Pepperoni Pizza
+503.00,511.00,bbq_chicken_l,3.00,1/16/2015,05:17:21,14.91,44.73,L,Spicy,"""Tomato, Mozzarella, Basil""",BBQ Chicken Pizza
